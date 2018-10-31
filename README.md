@@ -1,5 +1,6 @@
 # TEscripts
 Scripts used for transposable element expression analysis in Sorghum bicolor.
+Work from October 2018.
 
 ## Author
 
