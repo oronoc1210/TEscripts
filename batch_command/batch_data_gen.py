@@ -1,14 +1,17 @@
 import os
-from datetime import datetime
 
 outf = open("batch_data.txt", "w+")
+tepath = "/global/projectb/scratch/cmodonog/TransposableElements"
 
-for subdir, dirs, files in os.walk("Sbicolor_libraries"):
+for dir, subdirs, files in os.walk("%s/Sbicolor_libraries/" % tepath):
     for file in files:
-        filepath = subdir + os.sep + file
+        filepath = dir + os.sep + file
+        if "RTx430_Leaf_Irr1_Rep1" in filepath:
+            continue
         if filepath.endswith("fastq.gz"):
-            timestamp = os.lstat(filepath).st_mtime
-            time = datetime.fromtimestamp(timestamp)
-            fileparts = file.split(".")
-            outbase = fileparts[0]
-            outf.write("%s\t%s\t%s\n" % (subdir, file, outbase))
+           fileparts = filepath.split("/")
+           filename = fileparts[-1]
+           filedir = "/".join(fileparts[:-1])
+           libname = fileparts[-2]
+           jamo_id = filename.split(".")[0]
+           outf.write("{}\t{}\t{}\t{}\n".format(filedir, filename, libname, jamo_id))

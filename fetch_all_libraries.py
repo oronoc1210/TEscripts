@@ -1,9 +1,8 @@
-import requests
 import os
 import sys
 import logging
 import re
-from datetime import datetime
+import subprocess
 
 import pandas as pd
 import numpy as np
@@ -16,109 +15,120 @@ formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
-te_path = "/global/projectb/scratch/cmodonog/TransposableElements"
-# df = dataframe. md = metadata. lib=libraries.
-# The 'samples reference' has all data about the sample except the lib name.
-# So also need to open LIBRARIES TABLE to look up lib name using sample name.
-df_md = pd.read_excel('%s/EPICON_samples_reference.xlsx' % te_path)
-df_lib = pd.read_table("%s/LIBRARIES_TABLE.txt" % te_path)
-tissues = {"R": "Root", "L": "Leaf", "P": "P"}
+class SkipSample(Exception): 
+    pass
 
-class SkipSample(Exception): pass
+class cd:
+    """Context manager to temporarily change current working directory"""
+    def __init__(self, new_path):
+        self.new_path = new_path
 
-def datetime_gen(datestring):
+    def __enter__(self):
+        self.old_path = os.getcwd()
+        os.chdir(self.new_path)
+
+    def __exit__(self, etype, evalue, traceback):
+        os.chdir(self.old_path)
+
+def datetime_convert(datestring):
     datearr = re.split("-|:|T", datestring)
     datetup = tuple(map(lambda x: int(x), datearr))
     dt = datetime(*datetup)
     return dt
 
+te_path = "/global/projectb/scratch/cmodonog/TransposableElements"
+# df = dataframe. md = metadata. lib=libraries.
+# The 'samples reference' has all data about the sample except the lib name.
+# So also need to open LIBRARIES TABLE to look up lib name using sample name.
+with cd(te_path):
+    df_md = pd.read_excel('EPICON_samples_reference.xlsx')
+    df_lib = pd.read_table('LIBRARIES_TABLE.txt')
+tissues = {"R": "Root", "L": "Leaf"}
 
 logger.info("Reading in sample data...")
-# Yes, for every single entry. ~1200. Might take a while.
-for index, row in df_md.iterrows():
+# ~400 samples. Might take a while.
+for index, row in df_lib.iterrows():
     # Gathering sample data
-    sample_name = row['Sample name']
-    try:
-        sample_lib = df_lib.loc[df_lib["5=sampleName"] == sample_name].iloc[0][0]
-    except IndexError:
-        logger.info("Sample %s not in LIBRARIES_TABLE.txt, no library name." % sample_name)
-        sample_lib = False
+    library_name = row['1=libraryName']
+    sample_name = row['5=sampleName']
+    """
     tissue = tissues[row['Tissue']]
     genotype = row['Genotype']
     treatment = row['Treatment'].split()[1]
     replicate = row['Replicate']
+    """
+    epicon_entry = df_md.loc[df_md["Sample name"] == sample_name].iloc[0]
+    tissue = tissues[epicon_entry["Tissue"]]
+    genotype = epicon_entry["Genotype"]
+    treatment = epicon_entry["Treatment"].split()[1]
+    replicate = epicon_entry["Replicate"]
+
     logger.info("Name:%s\tLib:%s\tGenotype:%s\tTissue:%s\tTreatment:Irr%s\tReplicate:%s"
-                % (sample_name, sample_lib, genotype, tissue, treatment, replicate))
-    directory = "%s/Sbicolor_libraries/%s_%s_Irr%s_Rep%s" % (te_path, genotype, tissue, treatment, replicate)
-    if sample_lib:
-        subdir = "%s/%s_%s" % (directory, sample_lib, sample_name)
-    else:
-        subdir = "%s/%s" % (directory, sample_name)
+                % (sample_name, library_name, genotype, tissue, treatment, replicate))
+    treatment_subdir = "%s/Sbicolor_libraries/%s_%s_Irr%s_Rep%s" % (te_path, genotype, tissue, treatment, replicate)
+    library_subdir = "%s/%s" % (treatment_subdir, library_name)
+
+    if not os.path.isdir(treatment_subdir):
+        os.mkdir(treatment_subdir)
+    if not os.path.isdir(library_subdir):
+        os.mkdir(library_subdir)
+
+    # if a fastq already exists in this file location, can move on.
     try:
-        for dir, sub_dirs, files in os.walk(subdir):
+        for dir, subdirs, files in os.walk(library_subdir):
             for file in files:
                 if file.endswith("fastq.gz"):
-                    filepath = dir + os.sep + file
-                    logger.info("Link already present at %s. Skipping..." % (filepath))
                     raise SkipSample()
     except SkipSample:
         continue
 
-
-    # Finding jamo id
-    headers = {"Content-Type": "application/json"}
-    jamo_url = "https://sdm2.jgi-psf.org/api/metadata/pagequery"
-    query = ("metadata.sow_segment.sample_name=%s" % sample_name)
-    data = {"query": query,
-            "fields": ["file_path", "file_name", "file_date"]
-           }
-    r = requests.post(jamo_url, data=data)
-
-    # Grabbing relevant jamo metadata and fetching fastq
-    # Goal: getting the MOST RECENT, FILTERED fastq.
-    # So, if multiple filtered, will take most recent.
-    # If none filtered, will take most recent .fastq file
-    json = r.json()
-    _id = False
-    _time = False
-    _name = False
-    for item in json['records']:
-        # Looking for fastq's. Not chaff.tar's etc
-        if not item['file_name'].endswith('fastq.gz'):
-            continue
-        # If a filter-RNA has already been found, only filter-RNAs can replace it.
-        if _name and 'filter-RNA' in _name:
-            if 'filter-RNA' not in item['file_name']:
-                continue
-        # If filter-RNA hasn't been found yet, don't want FAIL or BISULFITE fastqs.
-        if 'FAIL' in item['file_name'] or 'BISULFITE' in item['file_name']:
-            continue
-        # If we already have a record, will replace with this record if it's newer.
-        if _time:
-            newtime = datetime_gen(item['file_date'])
-            oldtime = datetime_gen(_time)
-            youngest = max(newtime, oldtime)
-            if youngest == oldtime:
-                continue
-        _id = item['_id']
-        _time = item['file_date']
-        _path = item['file_path']
-        _name = item['file_name']
-        fetch_arg = "{files: [%s]}" % _id
-    if not _id:     
-        logger.error("No file found for this sample! Records as follows: %s"
-                     % (str(json['records'])))
+    jamo_info_cmd = ["jamo", "info", "library", library_name]
+    try:
+        info_output = subprocess.check_output(jamo_info_cmd)
+        logger.info(info_output)
+        if "No matching records" in info_output:
+            logger.info("Sample has no records in jamo! Skipping...")
+            raise SkipSample()
+    except subprocess.CalledProcessError as info_err:
+        logger.error("JAMO ERROR %s %s" % (info_err.returncode, info_err.output))
         continue
-    r2 = requests.post(jamo_url, fetch_arg)
+    except SkipSample:
+        continue
 
-    # Making sure output path exists and then creating symbolic link to data
-    fastq_path = "%s/%s" % (_path, _name)
-    if sample_lib:
-        fastq_link = "%s/%s.filter-RNA.fastq.gz" % (subdir, sample_lib)
-    else:
-        fastq_link = "%s/%s.filter-RNA.fastq.gz" % (subdir, sample_name)
-    if not os.path.islink(fastq_link):
-        logger.info("Creating link of %s at %s" % (fastq_path, fastq_link))
-        os.symlink(fastq_path, fastq_link)
-    else:
-        logger.info("Link %s already exists" % (fastq_link))
+    # want to create a list of the entries (first [:-1])
+    # and then from the last entry (second [-1])
+    # take the last piece of data, which is the jamo id (third [-1])
+    jamo_entry = info_output.split('\n')[:-1][-1].split()
+    jamo_id = jamo_entry[-1]
+    jamo_name = jamo_entry[1]
+    logger.info("file chosen: jamo name:%s\tjamo id:%s" % (jamo_name, jamo_id))
+    # write the jamo metadata in the same directory the link is going.
+    # Might need it later, better to grab it now.
+    with cd(library_subdir):
+        jamo_show_cmd = "jamo show id %s > %s.json" % (jamo_id, library_name)
+        jamo_show_cmd = jamo_show_cmd.split()
+        try:
+            with open("%s.json" % library_name, "w+") as json_file:
+                show_output = subprocess.call(jamo_show_cmd, stdout=json_file)
+        except subprocess.CalledProcessError as show_err:
+            logger.error("JAMO ERROR %s %s" (fetch_err.returncode, fetch_err.output))
+
+    jamo_fetch_cmd = ["jamo", "fetch", "id", jamo_id]
+    try:
+        fetch_output = subprocess.check_output(jamo_fetch_cmd)
+        logger.info(fetch_output)
+    except subprocess.CalledProcessError as fetch_err:
+        logger.error("JAMO ERROR %s %s" % (fetch_err.returncode, fetch_err.output))
+        continue
+
+    # Creating symbolic link to data in correct subdirectory
+    with cd(library_subdir):
+        logger.info("Creating link of %s at %s" % (jamo_name, library_subdir))
+        jamo_link_cmd = ["jamo", "link", "id", jamo_id]
+        try:
+            link_output = subprocess.check_output(jamo_link_cmd)
+            logger.info(link_output)
+        except subprocess.CalledProcessError as link_err:
+            logger.error("JAMO ERROR %s %s" % (link_err.returncode, link_err.output))
+            continue
+logger.info("All libraries completed.")

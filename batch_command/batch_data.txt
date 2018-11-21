@@ -1,809 +1,340 @@
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/1011174R04	1011174R04.filter-RNA.fastq.gz	1011174R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0913172R04	0913172R04.filter-RNA.fastq.gz	0913172R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPBT_0810160R15	BOPBT.filter-RNA.fastq.gz	BOPBT
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPNG_0831165R15	BOPNG.filter-RNA.fastq.gz	BOPNG
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPCO_0817163R15	BOPCO.filter-RNA.fastq.gz	BOPCO
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0818175R04	0818175R04.filter-RNA.fastq.gz	0818175R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPPS_0928169R15	BOPPS.filter-RNA.fastq.gz	BOPPS
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPSU_0914167R15	BOPSU.filter-RNA.fastq.gz	BOPSU
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0830178R04	0830178R04.filter-RNA.fastq.gz	0830178R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0823177R04	0823177R04.filter-RNA.fastq.gz	0823177R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0906179R04	0906179R04.filter-RNA.fastq.gz	0906179R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0816174R04	0816174R04.filter-RNA.fastq.gz	0816174R04
-Sbicolor_libraries/BTx642_Root_Irr2_Rep2/0821176R04	0821176R04.filter-RNA.fastq.gz	0821176R04
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep5/0628173L30	0628173L30.filter-RNA.fastq.gz	0628173L30
-Sbicolor_libraries/BTx642_P_Irr3_Rep1/0817163P02	0817163P02.filter-RNA.fastq.gz	0817163P02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0823177R19	0823177R19.filter-RNA.fastq.gz	0823177R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCYB_0817163R12	BOCYB.filter-RNA.fastq.gz	BOCYB
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0913172R19	0913172R19.filter-RNA.fastq.gz	0913172R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0705174R19	0705174R19.filter-RNA.fastq.gz	0705174R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPXG_0914167R12	BOPXG.filter-RNA.fastq.gz	BOPXG
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0712175R19	0712175R19.filter-RNA.fastq.gz	0712175R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0816174R19	0816174R19.filter-RNA.fastq.gz	0816174R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCBX_0629164R12	BOCBX.filter-RNA.fastq.gz	BOCBX
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0812172R19	0812172R19.filter-RNA.fastq.gz	0812172R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0810172R19	0810172R19.filter-RNA.fastq.gz	0810172R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCWP_0803169R12	BOCWP.filter-RNA.fastq.gz	BOCWP
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0921168R12	0921168R12.filter-RNA.fastq.gz	0921168R12
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCUZ_0727168R12	BOCUZ.filter-RNA.fastq.gz	BOCUZ
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/1011174R19	1011174R19.filter-RNA.fastq.gz	1011174R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0818175R19	0818175R19.filter-RNA.fastq.gz	0818175R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPPC_0928169R12	BOPPC.filter-RNA.fastq.gz	BOPPC
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0814172R19	0814172R19.filter-RNA.fastq.gz	0814172R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0811173R19	0811173R19.filter-RNA.fastq.gz	0811173R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCGO_0720167R12	BOCGO.filter-RNA.fastq.gz	BOCGO
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPUP_0831165R12	BOPUP.filter-RNA.fastq.gz	BOPUP
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0821176R19	0821176R19.filter-RNA.fastq.gz	0821176R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0719176R19	0719176R19.filter-RNA.fastq.gz	0719176R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0726177R19	0726177R19.filter-RNA.fastq.gz	0726177R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPWH_0907166R12	BOPWH.filter-RNA.fastq.gz	BOPWH
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCCY_0713166R12	BOCCY.filter-RNA.fastq.gz	BOCCY
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0906179R19	0906179R19.filter-RNA.fastq.gz	0906179R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCCN_0706165R12	BOCCN.filter-RNA.fastq.gz	BOCCN
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0809179R19	0809179R19.filter-RNA.fastq.gz	0809179R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCAW_0615163R12	BOCAW.filter-RNA.fastq.gz	BOCAW
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCBH_0622162R12	BOCBH.filter-RNA.fastq.gz	BOCBH
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPTU_0824164R12	BOPTU.filter-RNA.fastq.gz	BOPTU
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0830178R19	0830178R19.filter-RNA.fastq.gz	0830178R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/0802178R19	0802178R19.filter-RNA.fastq.gz	0802178R19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCXH_0810160R12	BOCXH.filter-RNA.fastq.gz	BOCXH
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0823177R17	0823177R17.filter-RNA.fastq.gz	0823177R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0913172R17	0913172R17.filter-RNA.fastq.gz	0913172R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCBS_0629164R06	BOCBS.filter-RNA.fastq.gz	BOCBS
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCUU_0727168R06	BOCUU.filter-RNA.fastq.gz	BOCUU
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCBA_0622162R06	BOCBA.filter-RNA.fastq.gz	BOCBA
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0802178R17	0802178R17.filter-RNA.fastq.gz	0802178R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCXX_0817163R06	BOCXX.filter-RNA.fastq.gz	BOCXX
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPWA_0907166R06	BOPWA.filter-RNA.fastq.gz	BOPWA
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCGC_0720167R06	BOCGC.filter-RNA.fastq.gz	BOCGC
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0921168R06	0921168R06.filter-RNA.fastq.gz	0921168R06
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCXA_0810160R06	BOCXA.filter-RNA.fastq.gz	BOCXA
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPOY_0928169R06	BOPOY.filter-RNA.fastq.gz	BOPOY
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0812172R17	0812172R17.filter-RNA.fastq.gz	0812172R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCCB_0706165R06	BOCCB.filter-RNA.fastq.gz	BOCCB
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/1011174R17	1011174R17.filter-RNA.fastq.gz	1011174R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0712175R17	0712175R17.filter-RNA.fastq.gz	0712175R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0906179R17	0906179R17.filter-RNA.fastq.gz	0906179R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0811173R17	0811173R17.filter-RNA.fastq.gz	0811173R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0816174R17	0816174R17.filter-RNA.fastq.gz	0816174R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPUG_0831165R06	BOPUG.filter-RNA.fastq.gz	BOPUG
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0814172R17	0814172R17.filter-RNA.fastq.gz	0814172R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCCT_0713166R06	BOCCT.filter-RNA.fastq.gz	BOCCT
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCWG_0803169R06	BOCWG.filter-RNA.fastq.gz	BOCWG
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0719176R17	0719176R17.filter-RNA.fastq.gz	0719176R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0830178R17	0830178R17.filter-RNA.fastq.gz	0830178R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPTO_0824164R06	BOPTO.filter-RNA.fastq.gz	BOPTO
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0810172R17	0810172R17.filter-RNA.fastq.gz	0810172R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep1/0726177R17	0726177R17.filter-RNA.fastq.gz	0726177R17
-Sbicolor_libraries/BTx642_P_Irr2_Rep3/0817163P21	0817163P21.filter-RNA.fastq.gz	0817163P21
-Sbicolor_libraries/BTx642_P_Irr3_Rep2/0817163P11	0817163P11.filter-RNA.fastq.gz	0817163P11
-Sbicolor_libraries/BTx642_P_Irr3_Rep3/0817163P19	0817163P19.filter-RNA.fastq.gz	0817163P19
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0821176R11	0821176R11.filter-RNA.fastq.gz	0821176R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCOG_0831165R20	BOCOG.filter-RNA.fastq.gz	BOCOG
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCGX_0615163R20	BOCGX.filter-RNA.fastq.gz	BOCGX
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0913172R11	0913172R11.filter-RNA.fastq.gz	0913172R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/1011174R11	1011174R11.filter-RNA.fastq.gz	1011174R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCPX_0727168R20	BOCPX.filter-RNA.fastq.gz	BOCPX
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0816174R11	0816174R11.filter-RNA.fastq.gz	0816174R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0906179R11	0906179R11.filter-RNA.fastq.gz	0906179R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCTO_0810160R20	BOCTO.filter-RNA.fastq.gz	BOCTO
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCST_0803169R20	BOCST.filter-RNA.fastq.gz	BOCST
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCHY_0629164R20	BOCHY.filter-RNA.fastq.gz	BOCHY
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0824164R20	0824164R20.filter-RNA.fastq.gz	0824164R20
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOPSG_0928169R20	BOPSG.filter-RNA.fastq.gz	BOPSG
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0830178R11	0830178R11.filter-RNA.fastq.gz	0830178R11
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCUG_0817163R20	BOCUG.filter-RNA.fastq.gz	BOCUG
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCHN_0622162R20	BOCHN.filter-RNA.fastq.gz	BOCHN
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0706165R20	0706165R20.filter-RNA.fastq.gz	0706165R20
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCNO_0713166R20	BOCNO.filter-RNA.fastq.gz	BOCNO
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOPTA_0914167R20	BOPTA.filter-RNA.fastq.gz	BOPTA
-Sbicolor_libraries/RTx430_Root_Irr3_Rep3/0823177R11	0823177R11.filter-RNA.fastq.gz	0823177R11
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOPWY_0914167R03	BOPWY.filter-RNA.fastq.gz	BOPWY
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0906179R16	0906179R16.filter-RNA.fastq.gz	0906179R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCNS_0831165R03	BOCNS.filter-RNA.fastq.gz	BOCNS
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0913172R16	0913172R16.filter-RNA.fastq.gz	0913172R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0821176R16	0821176R16.filter-RNA.fastq.gz	0821176R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCSW_0810160R03	BOCSW.filter-RNA.fastq.gz	BOCSW
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCPZ_0803169R03	BOCPZ.filter-RNA.fastq.gz	BOCPZ
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOPOP_0928169R03	BOPOP.filter-RNA.fastq.gz	BOPOP
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCTS_0817163R03	BOCTS.filter-RNA.fastq.gz	BOCTS
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0830178R16	0830178R16.filter-RNA.fastq.gz	0830178R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/1011174R16	1011174R16.filter-RNA.fastq.gz	1011174R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0823177R16	0823177R16.filter-RNA.fastq.gz	0823177R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0816174R16	0816174R16.filter-RNA.fastq.gz	0816174R16
-Sbicolor_libraries/RTx430_Root_Irr2_Rep1/0818175R16	0818175R16.filter-RNA.fastq.gz	0818175R16
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCWB_0803169R05	BOCWB.filter-RNA.fastq.gz	BOCWB
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0906179R18	0906179R18.filter-RNA.fastq.gz	0906179R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0809179R18	0809179R18.filter-RNA.fastq.gz	0809179R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0811173R18	0811173R18.filter-RNA.fastq.gz	0811173R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCWY_0810160R05	BOCWY.filter-RNA.fastq.gz	BOCWY
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPUY_0907166R05	BOPUY.filter-RNA.fastq.gz	BOPUY
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/1011174R18	1011174R18.filter-RNA.fastq.gz	1011174R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCBZ_0706165R05	BOCBZ.filter-RNA.fastq.gz	BOCBZ
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0823177R18	0823177R18.filter-RNA.fastq.gz	0823177R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCUS_0727168R05	BOCUS.filter-RNA.fastq.gz	BOCUS
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0913172R18	0913172R18.filter-RNA.fastq.gz	0913172R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPUB_0831165R05	BOPUB.filter-RNA.fastq.gz	BOPUB
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCXU_0817163R05	BOCXU.filter-RNA.fastq.gz	BOCXU
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0712175R18	0712175R18.filter-RNA.fastq.gz	0712175R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0810172R18	0810172R18.filter-RNA.fastq.gz	0810172R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0830178R18	0830178R18.filter-RNA.fastq.gz	0830178R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0812172R18	0812172R18.filter-RNA.fastq.gz	0812172R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCAY_0622162R05	BOCAY.filter-RNA.fastq.gz	BOCAY
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0802178R18	0802178R18.filter-RNA.fastq.gz	0802178R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0921168R05	0921168R05.filter-RNA.fastq.gz	0921168R05
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCGA_0720167R05	BOCGA.filter-RNA.fastq.gz	BOCGA
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCBO_0629164R05	BOCBO.filter-RNA.fastq.gz	BOCBO
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCCP_0713166R05	BOCCP.filter-RNA.fastq.gz	BOCCP
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0816174R18	0816174R18.filter-RNA.fastq.gz	0816174R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0814172R18	0814172R18.filter-RNA.fastq.gz	0814172R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/0719176R18	0719176R18.filter-RNA.fastq.gz	0719176R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPOW_0928169R05	BOPOW.filter-RNA.fastq.gz	BOPOW
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPTH_0824164R05	BOPTH.filter-RNA.fastq.gz	BOPTH
-Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPXA_0914167R05	BOPXA.filter-RNA.fastq.gz	BOPXA
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPAA_0727168R01	BOPAA.filter-RNA.fastq.gz	BOPAA
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPOG_0928169R01	BOPOG.filter-RNA.fastq.gz	BOPOG
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGY_0629164R01	BOPGY.filter-RNA.fastq.gz	BOPGY
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0906179R02	0906179R02.filter-RNA.fastq.gz	0906179R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0812172R02	0812172R02.filter-RNA.fastq.gz	0812172R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0913172R02	0913172R02.filter-RNA.fastq.gz	0913172R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0809179R02	0809179R02.filter-RNA.fastq.gz	0809179R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0811173R02	0811173R02.filter-RNA.fastq.gz	0811173R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0705174R02	0705174R02.filter-RNA.fastq.gz	0705174R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0823177R02	0823177R02.filter-RNA.fastq.gz	0823177R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/1011174R02	1011174R02.filter-RNA.fastq.gz	1011174R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0719176R02	0719176R02.filter-RNA.fastq.gz	0719176R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGN_0622162R01	BOPGN.filter-RNA.fastq.gz	BOPGN
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPBN_0810160R01	BOPBN.filter-RNA.fastq.gz	BOPBN
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0814172R02	0814172R02.filter-RNA.fastq.gz	0814172R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPHO_0713166R01	BOPHO.filter-RNA.fastq.gz	BOPHO
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPAS_0803169R01	BOPAS.filter-RNA.fastq.gz	BOPAS
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGB_0615163R01	BOPGB.filter-RNA.fastq.gz	BOPGB
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0802178R02	0802178R02.filter-RNA.fastq.gz	0802178R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0628173R02	0628173R02.filter-RNA.fastq.gz	0628173R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0821176R02	0821176R02.filter-RNA.fastq.gz	0821176R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0830178R02	0830178R02.filter-RNA.fastq.gz	0830178R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPCC_0817163R01	BOPCC.filter-RNA.fastq.gz	BOPCC
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0818175R02	0818175R02.filter-RNA.fastq.gz	0818175R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPHZ_0831165R01	BOPHZ.filter-RNA.fastq.gz	BOPHZ
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0816174R02	0816174R02.filter-RNA.fastq.gz	0816174R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0810172R02	0810172R02.filter-RNA.fastq.gz	0810172R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0726177R02	0726177R02.filter-RNA.fastq.gz	0726177R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0712175R02	0712175R02.filter-RNA.fastq.gz	0712175R02
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPWW_0914167R01	BOPWW.filter-RNA.fastq.gz	BOPWW
-Sbicolor_libraries/RTx430_Root_Irr3_Rep1/0706165R01	0706165R01.filter-RNA.fastq.gz	0706165R01
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPWN_0907166L21	BOPWN.filter-RNA.fastq.gz	BOPWN
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPUS_0831165L21	BOPUS.filter-RNA.fastq.gz	BOPUS
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPTW_0824164L21	BOPTW.filter-RNA.fastq.gz	BOPTW
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0906179L21	0906179L21.filter-RNA.fastq.gz	0906179L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0830178L21	0830178L21.filter-RNA.fastq.gz	0830178L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPWT_0914167L21	BOPWT.filter-RNA.fastq.gz	BOPWT
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0913172L21	0913172L21.filter-RNA.fastq.gz	0913172L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0823177L21	0823177L21.filter-RNA.fastq.gz	0823177L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCWS_0803169L21	BOCWS.filter-RNA.fastq.gz	BOCWS
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCUO_0921168L21	BOCUO.filter-RNA.fastq.gz	BOCUO
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCXN_0810160L21	BOCXN.filter-RNA.fastq.gz	BOCXN
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0821176L21	0821176L21.filter-RNA.fastq.gz	0821176L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCYC_0817163L21	BOCYC.filter-RNA.fastq.gz	BOCYC
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPSH_0928169L21	BOPSH.filter-RNA.fastq.gz	BOPSH
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/1011174L21	1011174L21.filter-RNA.fastq.gz	1011174L21
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/0816174L21	0816174L21.filter-RNA.fastq.gz	0816174L21
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCGZ_0622162R13	BOCGZ.filter-RNA.fastq.gz	BOCGZ
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0726177R13	0726177R13.filter-RNA.fastq.gz	0726177R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOPPH_0928169R13	BOPPH.filter-RNA.fastq.gz	BOPPH
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0802178R13	0802178R13.filter-RNA.fastq.gz	0802178R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0823177R13	0823177R13.filter-RNA.fastq.gz	0823177R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0706165R13	0706165R13.filter-RNA.fastq.gz	0706165R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCSG_0803169R13	BOCSG.filter-RNA.fastq.gz	BOCSG
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOPSS_0914167R13	BOPSS.filter-RNA.fastq.gz	BOPSS
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0812172R13	0812172R13.filter-RNA.fastq.gz	0812172R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/1011174R13	1011174R13.filter-RNA.fastq.gz	1011174R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0824164R13	0824164R13.filter-RNA.fastq.gz	0824164R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCNX_0831165R13	BOCNX.filter-RNA.fastq.gz	BOCNX
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0906179R13	0906179R13.filter-RNA.fastq.gz	0906179R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0809179R13	0809179R13.filter-RNA.fastq.gz	0809179R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0810172R13	0810172R13.filter-RNA.fastq.gz	0810172R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0816174R13	0816174R13.filter-RNA.fastq.gz	0816174R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0814172R13	0814172R13.filter-RNA.fastq.gz	0814172R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCPP_0727168R13	BOCPP.filter-RNA.fastq.gz	BOCPP
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0830178R13	0830178R13.filter-RNA.fastq.gz	0830178R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCNA_0713166R13	BOCNA.filter-RNA.fastq.gz	BOCNA
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0712175R13	0712175R13.filter-RNA.fastq.gz	0712175R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0719176R13	0719176R13.filter-RNA.fastq.gz	0719176R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0705174R13	0705174R13.filter-RNA.fastq.gz	0705174R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0628173R13	0628173R13.filter-RNA.fastq.gz	0628173R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCHP_0629164R13	BOCHP.filter-RNA.fastq.gz	BOCHP
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0913172R13	0913172R13.filter-RNA.fastq.gz	0913172R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/0811173R13	0811173R13.filter-RNA.fastq.gz	0811173R13
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCTX_0817163R13	BOCTX.filter-RNA.fastq.gz	BOCTX
-Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCTA_0810160R13	BOCTA.filter-RNA.fastq.gz	BOCTA
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0705174L02	0705174L02.filter-RNA.fastq.gz	0705174L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0811173L02	0811173L02.filter-RNA.fastq.gz	0811173L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0810172L02	0810172L02.filter-RNA.fastq.gz	0810172L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0812172L02	0812172L02.filter-RNA.fastq.gz	0812172L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPOC_0928169L01	BOPOC.filter-RNA.fastq.gz	BOPOC
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOOZZ_0727168L01	BOOZZ.filter-RNA.fastq.gz	BOOZZ
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0712175L02	0712175L02.filter-RNA.fastq.gz	0712175L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0706165L01	0706165L01.filter-RNA.fastq.gz	0706165L01
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0818175L02	0818175L02.filter-RNA.fastq.gz	0818175L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0726177L02	0726177L02.filter-RNA.fastq.gz	0726177L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0816174L02	0816174L02.filter-RNA.fastq.gz	0816174L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0824164L01	0824164L01.filter-RNA.fastq.gz	0824164L01
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0830178L02	0830178L02.filter-RNA.fastq.gz	0830178L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPHN_0713166L01	BOPHN.filter-RNA.fastq.gz	BOPHN
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPHY_0831165L01	BOPHY.filter-RNA.fastq.gz	BOPHY
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0719176L02	0719176L02.filter-RNA.fastq.gz	0719176L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPCB_0817163L01	BOPCB.filter-RNA.fastq.gz	BOPCB
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGX_0629164L01	BOPGX.filter-RNA.fastq.gz	BOPGX
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0821176L02	0821176L02.filter-RNA.fastq.gz	0821176L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0809179L02	0809179L02.filter-RNA.fastq.gz	0809179L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0628173L02	0628173L02.filter-RNA.fastq.gz	0628173L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0823177L02	0823177L02.filter-RNA.fastq.gz	0823177L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0913172L02	0913172L02.filter-RNA.fastq.gz	0913172L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/1011174L02	1011174L02.filter-RNA.fastq.gz	1011174L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0906179L02	0906179L02.filter-RNA.fastq.gz	0906179L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/0802178L02	0802178L02.filter-RNA.fastq.gz	0802178L02
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGH_0622162L01	BOPGH.filter-RNA.fastq.gz	BOPGH
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGA_0615163L01	BOPGA.filter-RNA.fastq.gz	BOPGA
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPBH_0810160L01	BOPBH.filter-RNA.fastq.gz	BOPBH
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPAP_0803169L01	BOPAP.filter-RNA.fastq.gz	BOPAP
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCHH_0622162L20	BOCHH.filter-RNA.fastq.gz	BOCHH
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCHX_0629164L20	BOCHX.filter-RNA.fastq.gz	BOCHX
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCGW_0615163L20	BOCGW.filter-RNA.fastq.gz	BOCGW
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0706165L20	0706165L20.filter-RNA.fastq.gz	0706165L20
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOPSC_0928169L20	BOPSC.filter-RNA.fastq.gz	BOPSC
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCNN_0713166L20	BOCNN.filter-RNA.fastq.gz	BOCNN
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0821176L11	0821176L11.filter-RNA.fastq.gz	0821176L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0830178L11	0830178L11.filter-RNA.fastq.gz	0830178L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/1011174L11	1011174L11.filter-RNA.fastq.gz	1011174L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0816174L11	0816174L11.filter-RNA.fastq.gz	0816174L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCOT_0914167L20	BOCOT.filter-RNA.fastq.gz	BOCOT
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0823177L11	0823177L11.filter-RNA.fastq.gz	0823177L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0824164L20	0824164L20.filter-RNA.fastq.gz	0824164L20
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCSS_0803169L20	BOCSS.filter-RNA.fastq.gz	BOCSS
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCTN_0810160L20	BOCTN.filter-RNA.fastq.gz	BOCTN
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCOC_0831165L20	BOCOC.filter-RNA.fastq.gz	BOCOC
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCUC_0817163L20	BOCUC.filter-RNA.fastq.gz	BOCUC
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCPW_0727168L20	BOCPW.filter-RNA.fastq.gz	BOCPW
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0913172L11	0913172L11.filter-RNA.fastq.gz	0913172L11
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/0906179L11	0906179L11.filter-RNA.fastq.gz	0906179L11
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep5/0628173L29	0628173L29.filter-RNA.fastq.gz	0628173L29
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOPOU_0928169L05	BOPOU.filter-RNA.fastq.gz	BOPOU
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0823177L18	0823177L18.filter-RNA.fastq.gz	0823177L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0814172L18	0814172L18.filter-RNA.fastq.gz	0814172L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCAX_0622162L05	BOCAX.filter-RNA.fastq.gz	BOCAX
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCCO_0713166L05	BOCCO.filter-RNA.fastq.gz	BOCCO
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0712175L18	0712175L18.filter-RNA.fastq.gz	0712175L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOPUA_0831165L05	BOPUA.filter-RNA.fastq.gz	BOPUA
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCYO_0921168L05	BOCYO.filter-RNA.fastq.gz	BOCYO
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCUP_0727168L05	BOCUP.filter-RNA.fastq.gz	BOCUP
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0809179L18	0809179L18.filter-RNA.fastq.gz	0809179L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0811173L18	0811173L18.filter-RNA.fastq.gz	0811173L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0816174L18	0816174L18.filter-RNA.fastq.gz	0816174L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0913172L18	0913172L18.filter-RNA.fastq.gz	0913172L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0810172L18	0810172L18.filter-RNA.fastq.gz	0810172L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/1011174L18	1011174L18.filter-RNA.fastq.gz	1011174L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOPUX_0907166L05	BOPUX.filter-RNA.fastq.gz	BOPUX
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0906179L18	0906179L18.filter-RNA.fastq.gz	0906179L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCBN_0629164L05	5882c95d7ded5e69567ee6c5.11250.1.197760.GTTCGGT-AACCGAA.filter-RNA.fastq.gz	5882c95d7ded5e69567ee6c5
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCCZ_0720167L05	BOCCZ.filter-RNA.fastq.gz	BOCCZ
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCXT_0817163L05	BOCXT.filter-RNA.fastq.gz	BOCXT
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCBY_0706165L05	BOCBY.filter-RNA.fastq.gz	BOCBY
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCWX_0810160L05	BOCWX.filter-RNA.fastq.gz	BOCWX
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0830178L18	0830178L18.filter-RNA.fastq.gz	0830178L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0726177L18	0726177L18.filter-RNA.fastq.gz	0726177L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCWA_0803169L05	BOCWA.filter-RNA.fastq.gz	BOCWA
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/0802178L18	0802178L18.filter-RNA.fastq.gz	0802178L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOCGP_0914167L05	BOCGP.filter-RNA.fastq.gz	BOCGP
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep1/BOPTG_0824164L05	BOPTG.filter-RNA.fastq.gz	BOPTG
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPTY_0824164L22	BOPTY.filter-RNA.fastq.gz	BOPTY
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPWU_0914167L22	BOPWU.filter-RNA.fastq.gz	BOPWU
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCYH_0817163L22	BOCYH.filter-RNA.fastq.gz	BOCYH
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0906179L22	0906179L22.filter-RNA.fastq.gz	0906179L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0913172L22	0913172L22.filter-RNA.fastq.gz	0913172L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCWU_0803169L22	BOCWU.filter-RNA.fastq.gz	BOCWU
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0821176L22	0821176L22.filter-RNA.fastq.gz	0821176L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPSO_0928169L22	BOPSO.filter-RNA.fastq.gz	BOPSO
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPWP_0907166L22	BOPWP.filter-RNA.fastq.gz	BOPWP
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0830178L22	0830178L22.filter-RNA.fastq.gz	0830178L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0823177L22	0823177L22.filter-RNA.fastq.gz	0823177L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/0816174L22	0816174L22.filter-RNA.fastq.gz	0816174L22
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCXP_0810160L22	BOCXP.filter-RNA.fastq.gz	BOCXP
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPUU_0831165L22	BOPUU.filter-RNA.fastq.gz	BOPUU
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/1011174L22	1011174L22.filter-RNA.fastq.gz	1011174L22
-Sbicolor_libraries/BTx642_P_Irr2_Rep2/0817163P15	0817163P15.filter-RNA.fastq.gz	0817163P15
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPCX_0817163R18	BOPCX.filter-RNA.fastq.gz	BOPCX
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0906179R06	0906179R06.filter-RNA.fastq.gz	0906179R06
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPGW_0622162R18	BOPGW.filter-RNA.fastq.gz	BOPGW
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPBG_0803169R18	BOPBG.filter-RNA.fastq.gz	BOPBG
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0824164R18	0824164R18.filter-RNA.fastq.gz	0824164R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/1011174R06	1011174R06.filter-RNA.fastq.gz	1011174R06
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPCA_0810160R18	BOPCA.filter-RNA.fastq.gz	BOPCA
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0816174R06	0816174R06.filter-RNA.fastq.gz	0816174R06
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0706165R18	0706165R18.filter-RNA.fastq.gz	0706165R18
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPAO_0727168R18	BOPAO.filter-RNA.fastq.gz	BOPAO
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPPZ_0928169R18	BOPPZ.filter-RNA.fastq.gz	BOPPZ
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0830178R06	0830178R06.filter-RNA.fastq.gz	0830178R06
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPNT_0831165R18	BOPNT.filter-RNA.fastq.gz	BOPNT
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPHH_0629164R18	BOPHH.filter-RNA.fastq.gz	BOPHH
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPHX_0713166R18	BOPHX.filter-RNA.fastq.gz	BOPHX
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0913172R06	0913172R06.filter-RNA.fastq.gz	0913172R06
-Sbicolor_libraries/RTx430_Root_Irr1_Rep3/0823177R06	0823177R06.filter-RNA.fastq.gz	0823177R06
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0906179L03	0906179L03.filter-RNA.fastq.gz	0906179L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPAY_0803169L16	BOPAY.filter-RNA.fastq.gz	BOPAY
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPNY_0914167L16	BOPNY.filter-RNA.fastq.gz	BOPNY
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPBU_0810160L16	BOPBU.filter-RNA.fastq.gz	BOPBU
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0816174L03	0816174L03.filter-RNA.fastq.gz	0816174L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0821176L03	0821176L03.filter-RNA.fastq.gz	0821176L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0818175L03	0818175L03.filter-RNA.fastq.gz	0818175L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPPT_0928169L16	BOPPT.filter-RNA.fastq.gz	BOPPT
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/1011174L03	1011174L03.filter-RNA.fastq.gz	1011174L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0830178L03	0830178L03.filter-RNA.fastq.gz	0830178L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0823177L03	0823177L03.filter-RNA.fastq.gz	0823177L03
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPCP_0817163L16	BOPCP.filter-RNA.fastq.gz	BOPCP
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/0913172L03	0913172L03.filter-RNA.fastq.gz	0913172L03
-Sbicolor_libraries/BTx642_P_Irr1_Rep2/0817163P14	0817163P14.filter-RNA.fastq.gz	0817163P14
-Sbicolor_libraries/BTx642_P_Irr1_Rep1/0817163P06	0817163P06.filter-RNA.fastq.gz	0817163P06
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0816174L12	0816174L12.filter-RNA.fastq.gz	0816174L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCHC_0622162L19	BOCHC.filter-RNA.fastq.gz	BOCHC
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCOA_0831165L19	BOCOA.filter-RNA.fastq.gz	BOCOA
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCSO_0803169L19	BOCSO.filter-RNA.fastq.gz	BOCSO
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0706165L19	0706165L19.filter-RNA.fastq.gz	0706165L19
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCPT_0727168L19	BOCPT.filter-RNA.fastq.gz	BOCPT
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCUA_0817163L19	BOCUA.filter-RNA.fastq.gz	BOCUA
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCOS_0914167L19	BOCOS.filter-RNA.fastq.gz	BOCOS
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0824164L19	0824164L19.filter-RNA.fastq.gz	0824164L19
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0830178L12	0830178L12.filter-RNA.fastq.gz	0830178L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/1011174L12	1011174L12.filter-RNA.fastq.gz	1011174L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0821176L12	0821176L12.filter-RNA.fastq.gz	0821176L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCHU_0629164L19	BOCHU.filter-RNA.fastq.gz	BOCHU
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0913172L12	0913172L12.filter-RNA.fastq.gz	0913172L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCGT_0615163L19	BOCGT.filter-RNA.fastq.gz	BOCGT
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCTG_0810160L19	BOCTG.filter-RNA.fastq.gz	BOCTG
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0906179L12	0906179L12.filter-RNA.fastq.gz	0906179L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/0823177L12	0823177L12.filter-RNA.fastq.gz	0823177L12
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOPSA_0928169L19	BOPSA.filter-RNA.fastq.gz	BOPSA
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCNG_0713166L19	BOCNG.filter-RNA.fastq.gz	BOCNG
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0830178L15	0830178L15.filter-RNA.fastq.gz	0830178L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/1011174L15	1011174L15.filter-RNA.fastq.gz	1011174L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0823177L15	0823177L15.filter-RNA.fastq.gz	0823177L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0906179L15	0906179L15.filter-RNA.fastq.gz	0906179L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0821176L15	0821176L15.filter-RNA.fastq.gz	0821176L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCON_0914167L04	BOCON.filter-RNA.fastq.gz	BOCON
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOPOS_0928169L04	BOPOS.filter-RNA.fastq.gz	BOPOS
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCTT_0817163L04	BOCTT.filter-RNA.fastq.gz	BOCTT
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCSX_0810160L04	BOCSX.filter-RNA.fastq.gz	BOCSX
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0816174L15	0816174L15.filter-RNA.fastq.gz	0816174L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0913172L15	0913172L15.filter-RNA.fastq.gz	0913172L15
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCSA_0803169L04	BOCSA.filter-RNA.fastq.gz	BOCSA
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCNT_0831165L04	BOCNT.filter-RNA.fastq.gz	BOCNT
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/0818175L15	0818175L15.filter-RNA.fastq.gz	0818175L15
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0712175R01	0712175R01.filter-RNA.fastq.gz	0712175R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0802178R01	0802178R01.filter-RNA.fastq.gz	0802178R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0726177R01	0726177R01.filter-RNA.fastq.gz	0726177R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0818175R01	0818175R01.filter-RNA.fastq.gz	0818175R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/1011174R01	1011174R01.filter-RNA.fastq.gz	1011174R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPGG_0615163R02	BOPGG.filter-RNA.fastq.gz	BOPGG
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0816174R01	0816174R01.filter-RNA.fastq.gz	0816174R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0823177R01	0823177R01.filter-RNA.fastq.gz	0823177R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPCH_0817163R02	BOPCH.filter-RNA.fastq.gz	BOPCH
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0628173R01	0628173R01.filter-RNA.fastq.gz	0628173R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPBP_0810160R02	BOPBP.filter-RNA.fastq.gz	BOPBP
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPGP_0622162R02	BOPGP.filter-RNA.fastq.gz	BOPGP
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPAU_0803169R02	BOPAU.filter-RNA.fastq.gz	BOPAU
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0719176R01	0719176R01.filter-RNA.fastq.gz	0719176R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0830178R01	0830178R01.filter-RNA.fastq.gz	0830178R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPHA_0629164R02	BOPHA.filter-RNA.fastq.gz	BOPHA
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPNB_0831165R02	BOPNB.filter-RNA.fastq.gz	BOPNB
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0812172R01	0812172R01.filter-RNA.fastq.gz	0812172R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0913172R01	0913172R01.filter-RNA.fastq.gz	0913172R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0809179R01	0809179R01.filter-RNA.fastq.gz	0809179R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0706165R02	0706165R02.filter-RNA.fastq.gz	0706165R02
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPHS_0713166R02	BOPHS.filter-RNA.fastq.gz	BOPHS
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0814172R01	0814172R01.filter-RNA.fastq.gz	0814172R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0824164R02	0824164R02.filter-RNA.fastq.gz	0824164R02
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0705174R01	0705174R01.filter-RNA.fastq.gz	0705174R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0810172R01	0810172R01.filter-RNA.fastq.gz	0810172R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0906179R01	0906179R01.filter-RNA.fastq.gz	0906179R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0811173R01	0811173R01.filter-RNA.fastq.gz	0811173R01
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPAC_0727168R02	BOPAC.filter-RNA.fastq.gz	BOPAC
-Sbicolor_libraries/BTx642_Root_Irr3_Rep1/0821176R01	0821176R01.filter-RNA.fastq.gz	0821176R01
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPAW_0803169L15	BOPAW.filter-RNA.fastq.gz	BOPAW
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0816174L04	0816174L04.filter-RNA.fastq.gz	0816174L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPPP_0928169L15	BOPPP.filter-RNA.fastq.gz	BOPPP
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPBS_0810160L15	BOPBS.filter-RNA.fastq.gz	BOPBS
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPNX_0914167L15	BOPNX.filter-RNA.fastq.gz	BOPNX
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0821176L04	0821176L04.filter-RNA.fastq.gz	0821176L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0830178L04	0830178L04.filter-RNA.fastq.gz	0830178L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0913172L04	0913172L04.filter-RNA.fastq.gz	0913172L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPNC_0831165L15	BOPNC.filter-RNA.fastq.gz	BOPNC
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/1011174L04	1011174L04.filter-RNA.fastq.gz	1011174L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPCN_0817163L15	BOPCN.filter-RNA.fastq.gz	BOPCN
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0818175L04	0818175L04.filter-RNA.fastq.gz	0818175L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0906179L04	0906179L04.filter-RNA.fastq.gz	0906179L04
-Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/0823177L04	0823177L04.filter-RNA.fastq.gz	0823177L04
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCUW_0727168L11	BOCUW.filter-RNA.fastq.gz	BOCUW
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCCU_0713166L11	BOCCU.filter-RNA.fastq.gz	BOCCU
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0913172L20	0913172L20.filter-RNA.fastq.gz	0913172L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0812172L20	0812172L20.filter-RNA.fastq.gz	0812172L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0816174L20	0816174L20.filter-RNA.fastq.gz	0816174L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0830178L20	0830178L20.filter-RNA.fastq.gz	0830178L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0712175L20	0712175L20.filter-RNA.fastq.gz	0712175L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCXY_0817163L11	BOCXY.filter-RNA.fastq.gz	BOCXY
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0810172L20	0810172L20.filter-RNA.fastq.gz	0810172L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0906179L20	0906179L20.filter-RNA.fastq.gz	0906179L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/1011174L20	1011174L20.filter-RNA.fastq.gz	1011174L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0823177L20	0823177L20.filter-RNA.fastq.gz	0823177L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0814172L20	0814172L20.filter-RNA.fastq.gz	0814172L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0719176L20	0719176L20.filter-RNA.fastq.gz	0719176L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0809179L20	0809179L20.filter-RNA.fastq.gz	0809179L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCWH_0803169L11	BOCWH.filter-RNA.fastq.gz	BOCWH
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0818175L20	0818175L20.filter-RNA.fastq.gz	0818175L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPWB_0907166L11	BOPWB.filter-RNA.fastq.gz	BOPWB
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCBB_0622162L11	BOCBB.filter-RNA.fastq.gz	BOCBB
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0802178L20	0802178L20.filter-RNA.fastq.gz	0802178L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCCC_0706165L11	BOCCC.filter-RNA.fastq.gz	BOCCC
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0726177L20	0726177L20.filter-RNA.fastq.gz	0726177L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCAS_0615163L11	BOCAS.filter-RNA.fastq.gz	BOCAS
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPNU_0914167L11	BOPNU.filter-RNA.fastq.gz	BOPNU
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0821176L20	0821176L20.filter-RNA.fastq.gz	0821176L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0705174L20	0705174L20.filter-RNA.fastq.gz	0705174L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPTP_0824164L11	BOPTP.filter-RNA.fastq.gz	BOPTP
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCXB_0810160L11	BOCXB.filter-RNA.fastq.gz	BOCXB
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPOZ_0928169L11	BOPOZ.filter-RNA.fastq.gz	BOPOZ
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCBT_0629164L11	BOCBT.filter-RNA.fastq.gz	BOCBT
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPUH_0831165L11	BOPUH.filter-RNA.fastq.gz	BOPUH
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/0811173L20	0811173L20.filter-RNA.fastq.gz	0811173L20
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCGG_0720167L11	BOCGG.filter-RNA.fastq.gz	BOCGG
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCPS_0727168L14	BOCPS.filter-RNA.fastq.gz	BOCPS
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/1011174L14	1011174L14.filter-RNA.fastq.gz	1011174L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCNY_0831165L14	BOCNY.filter-RNA.fastq.gz	BOCNY
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0706165L14	0706165L14.filter-RNA.fastq.gz	0706165L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0810172L14	0810172L14.filter-RNA.fastq.gz	0810172L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCTY_0817163L14	BOCTY.filter-RNA.fastq.gz	BOCTY
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCOP_0914167L14	BOCOP.filter-RNA.fastq.gz	BOCOP
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0802178L14	0802178L14.filter-RNA.fastq.gz	0802178L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0705174L14	0705174L14.filter-RNA.fastq.gz	0705174L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0823177L14	0823177L14.filter-RNA.fastq.gz	0823177L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOPPN_0928169L14	BOPPN.filter-RNA.fastq.gz	BOPPN
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0906179L14	0906179L14.filter-RNA.fastq.gz	0906179L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0814172L14	0814172L14.filter-RNA.fastq.gz	0814172L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0811173L14	0811173L14.filter-RNA.fastq.gz	0811173L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCTB_0810160L14	BOCTB.filter-RNA.fastq.gz	BOCTB
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0830178L14	0830178L14.filter-RNA.fastq.gz	0830178L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCHS_0629164L14	BOCHS.filter-RNA.fastq.gz	BOCHS
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCHA_0622162L14	BOCHA.filter-RNA.fastq.gz	BOCHA
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCNB_0713166L14	BOCNB.filter-RNA.fastq.gz	BOCNB
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0628173L14	0628173L14.filter-RNA.fastq.gz	0628173L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0816174L14	0816174L14.filter-RNA.fastq.gz	0816174L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0712175L14	0712175L14.filter-RNA.fastq.gz	0712175L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0812172L14	0812172L14.filter-RNA.fastq.gz	0812172L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0726177L14	0726177L14.filter-RNA.fastq.gz	0726177L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0824164L14	0824164L14.filter-RNA.fastq.gz	0824164L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0719176L14	0719176L14.filter-RNA.fastq.gz	0719176L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0809179L14	0809179L14.filter-RNA.fastq.gz	0809179L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/0913172L14	0913172L14.filter-RNA.fastq.gz	0913172L14
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCSH_0803169L14	BOCSH.filter-RNA.fastq.gz	BOCSH
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0816174L13	0816174L13.filter-RNA.fastq.gz	0816174L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOPPG_0928169L13	BOPPG.filter-RNA.fastq.gz	BOPPG
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCSC_0803169L13	BOCSC.filter-RNA.fastq.gz	BOCSC
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCGY_0622162L13	BOCGY.filter-RNA.fastq.gz	BOCGY
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0809179L13	0809179L13.filter-RNA.fastq.gz	0809179L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0719176L13	0719176L13.filter-RNA.fastq.gz	0719176L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0810172L13	0810172L13.filter-RNA.fastq.gz	0810172L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0802178L13	0802178L13.filter-RNA.fastq.gz	0802178L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCHO_0629164L13	BOCHO.filter-RNA.fastq.gz	BOCHO
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0811173L13	0811173L13.filter-RNA.fastq.gz	0811173L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0628173L13	0628173L13.filter-RNA.fastq.gz	0628173L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0824164L13	0824164L13.filter-RNA.fastq.gz	0824164L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0823177L13	0823177L13.filter-RNA.fastq.gz	0823177L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0812172L13	0812172L13.filter-RNA.fastq.gz	0812172L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0913172L13	0913172L13.filter-RNA.fastq.gz	0913172L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0814172L13	0814172L13.filter-RNA.fastq.gz	0814172L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0706165L13	0706165L13.filter-RNA.fastq.gz	0706165L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCHZ_0713166L13	BOCHZ.filter-RNA.fastq.gz	BOCHZ
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCSZ_0810160L13	BOCSZ.filter-RNA.fastq.gz	BOCSZ
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0906179L13	0906179L13.filter-RNA.fastq.gz	0906179L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/1011174L13	1011174L13.filter-RNA.fastq.gz	1011174L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCPO_0727168L13	BOCPO.filter-RNA.fastq.gz	BOCPO
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0726177L13	0726177L13.filter-RNA.fastq.gz	0726177L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0712175L13	0712175L13.filter-RNA.fastq.gz	0712175L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCTW_0817163L13	BOCTW.filter-RNA.fastq.gz	BOCTW
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/0830178L13	0830178L13.filter-RNA.fastq.gz	0830178L13
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCNW_0831165L13	BOCNW.filter-RNA.fastq.gz	BOCNW
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0705174L19	0705174L19.filter-RNA.fastq.gz	0705174L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0821176L19	0821176L19.filter-RNA.fastq.gz	0821176L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPPB_0928169L12	BOPPB.filter-RNA.fastq.gz	BOPPB
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0810172L19	0810172L19.filter-RNA.fastq.gz	0810172L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0802178L19	0802178L19.filter-RNA.fastq.gz	0802178L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPUO_0831165L12	BOPUO.filter-RNA.fastq.gz	BOPUO
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0830178L19	0830178L19.filter-RNA.fastq.gz	0830178L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCYA_0817163L12	BOCYA.filter-RNA.fastq.gz	BOCYA
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCXG_0810160L12	BOCXG.filter-RNA.fastq.gz	BOCXG
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0809179L19	0809179L19.filter-RNA.fastq.gz	0809179L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0814172L19	0814172L19.filter-RNA.fastq.gz	0814172L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0913172L19	0913172L19.filter-RNA.fastq.gz	0913172L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0823177L19	0823177L19.filter-RNA.fastq.gz	0823177L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCAU_0615163L12	BOCAU.filter-RNA.fastq.gz	BOCAU
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/1011174L19	1011174L19.filter-RNA.fastq.gz	1011174L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0719176L19	0719176L19.filter-RNA.fastq.gz	0719176L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCBW_0629164L12	BOCBW.filter-RNA.fastq.gz	BOCBW
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCUY_0727168L12	BOCUY.filter-RNA.fastq.gz	BOCUY
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCWO_0803169L12	BOCWO.filter-RNA.fastq.gz	BOCWO
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0818175L19	0818175L19.filter-RNA.fastq.gz	0818175L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPTT_0824164L12	BOPTT.filter-RNA.fastq.gz	BOPTT
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCGN_0720167L12	BOCGN.filter-RNA.fastq.gz	BOCGN
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCBG_0622162L12	BOCBG.filter-RNA.fastq.gz	BOCBG
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0712175L19	0712175L19.filter-RNA.fastq.gz	0712175L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPCZ_0921168L12	BOPCZ.filter-RNA.fastq.gz	BOPCZ
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0816174L19	0816174L19.filter-RNA.fastq.gz	0816174L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0811173L19	0811173L19.filter-RNA.fastq.gz	0811173L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCCX_0713166L12	BOCCX.filter-RNA.fastq.gz	BOCCX
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPNW_0914167L12	BOPNW.filter-RNA.fastq.gz	BOPNW
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPWG_0907166L12	BOPWG.filter-RNA.fastq.gz	BOPWG
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0726177L19	0726177L19.filter-RNA.fastq.gz	0726177L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0812172L19	0812172L19.filter-RNA.fastq.gz	0812172L19
-Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/0906179L19	0906179L19.filter-RNA.fastq.gz	0906179L19
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPPU_0928169R16	BOPPU.filter-RNA.fastq.gz	BOPPU
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/1011174R03	1011174R03.filter-RNA.fastq.gz	1011174R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0818175R03	0818175R03.filter-RNA.fastq.gz	0818175R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0830178R03	0830178R03.filter-RNA.fastq.gz	0830178R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPCS_0817163R16	BOPCS.filter-RNA.fastq.gz	BOPCS
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0823177R03	0823177R03.filter-RNA.fastq.gz	0823177R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPAZ_0803169R16	BOPAZ.filter-RNA.fastq.gz	BOPAZ
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0913172R03	0913172R03.filter-RNA.fastq.gz	0913172R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPBW_0810160R16	BOPBW.filter-RNA.fastq.gz	BOPBW
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPNN_0831165R16	BOPNN.filter-RNA.fastq.gz	BOPNN
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPSW_0914167R16	BOPSW.filter-RNA.fastq.gz	BOPSW
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0906179R03	0906179R03.filter-RNA.fastq.gz	0906179R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0821176R03	0821176R03.filter-RNA.fastq.gz	0821176R03
-Sbicolor_libraries/RTx430_Root_Irr2_Rep2/0816174R03	0816174R03.filter-RNA.fastq.gz	0816174R03
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0830178R15	0830178R15.filter-RNA.fastq.gz	0830178R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCTU_0817163R04	BOCTU.filter-RNA.fastq.gz	BOCTU
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOPOT_0928169R04	BOPOT.filter-RNA.fastq.gz	BOPOT
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0821176R15	0821176R15.filter-RNA.fastq.gz	0821176R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCSY_0810160R04	BOCSY.filter-RNA.fastq.gz	BOCSY
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0823177R15	0823177R15.filter-RNA.fastq.gz	0823177R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCSB_0803169R04	BOCSB.filter-RNA.fastq.gz	BOCSB
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0906179R15	0906179R15.filter-RNA.fastq.gz	0906179R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/1011174R15	1011174R15.filter-RNA.fastq.gz	1011174R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0816174R15	0816174R15.filter-RNA.fastq.gz	0816174R15
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCNU_0831165R04	BOCNU.filter-RNA.fastq.gz	BOCNU
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOPWZ_0914167R04	BOPWZ.filter-RNA.fastq.gz	BOPWZ
-Sbicolor_libraries/BTx642_Root_Irr2_Rep1/0913172R15	0913172R15.filter-RNA.fastq.gz	0913172R15
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCPY_0803169L03	BOCPY.filter-RNA.fastq.gz	BOCPY
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0818175L16	0818175L16.filter-RNA.fastq.gz	0818175L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0906179L16	0906179L16.filter-RNA.fastq.gz	0906179L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/1011174L16	1011174L16.filter-RNA.fastq.gz	1011174L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0830178L16	0830178L16.filter-RNA.fastq.gz	0830178L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0823177L16	0823177L16.filter-RNA.fastq.gz	0823177L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0816174L16	0816174L16.filter-RNA.fastq.gz	0816174L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCOH_0914167L03	BOCOH.filter-RNA.fastq.gz	BOCOH
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0913172L16	0913172L16.filter-RNA.fastq.gz	0913172L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/0821176L16	0821176L16.filter-RNA.fastq.gz	0821176L16
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCSU_0810160L03	BOCSU.filter-RNA.fastq.gz	BOCSU
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCTP_0817163L03	BOCTP.filter-RNA.fastq.gz	BOCTP
-Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCNP_0831165L03	BOCNP.filter-RNA.fastq.gz	BOCNP
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPUW_0831165R22	BOPUW.filter-RNA.fastq.gz	BOPUW
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPWS_0907166R22	BOPWS.filter-RNA.fastq.gz	BOPWS
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCWW_0803169R22	BOCWW.filter-RNA.fastq.gz	BOCWW
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0816174R22	0816174R22.filter-RNA.fastq.gz	0816174R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCXS_0810160R22	BOCXS.filter-RNA.fastq.gz	BOCXS
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCYN_0817163R22	BOCYN.filter-RNA.fastq.gz	BOCYN
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0921168R22	0921168R22.filter-RNA.fastq.gz	0921168R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPTZ_0824164R22	BOPTZ.filter-RNA.fastq.gz	BOPTZ
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0906179R22	0906179R22.filter-RNA.fastq.gz	0906179R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0821176R22	0821176R22.filter-RNA.fastq.gz	0821176R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0830178R22	0830178R22.filter-RNA.fastq.gz	0830178R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPSP_0928169R22	BOPSP.filter-RNA.fastq.gz	BOPSP
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPTC_0914167R22	BOPTC.filter-RNA.fastq.gz	BOPTC
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/1011174R22	1011174R22.filter-RNA.fastq.gz	1011174R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0823177R22	0823177R22.filter-RNA.fastq.gz	0823177R22
-Sbicolor_libraries/RTx430_Root_Irr2_Rep3/0913172R22	0913172R22.filter-RNA.fastq.gz	0913172R22
-Sbicolor_libraries/BTx642_P_Irr1_Rep3/0817163P17	0817163P17.filter-RNA.fastq.gz	0817163P17
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPAN_0727168L18	BOPAN.filter-RNA.fastq.gz	BOPAN
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPGU_0622162L18	BOPGU.filter-RNA.fastq.gz	BOPGU
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPNS_0831165L18	BOPNS.filter-RNA.fastq.gz	BOPNS
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPBZ_0810160L18	BOPBZ.filter-RNA.fastq.gz	BOPBZ
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPCW_0817163L18	BOPCW.filter-RNA.fastq.gz	BOPCW
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPHG_0629164L18	BOPHG.filter-RNA.fastq.gz	BOPHG
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0913172L06	0913172L06.filter-RNA.fastq.gz	0913172L06
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0830178L06	0830178L06.filter-RNA.fastq.gz	0830178L06
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0824164L18	0824164L18.filter-RNA.fastq.gz	0824164L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0816174L06	0816174L06.filter-RNA.fastq.gz	0816174L06
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPBC_0803169L18	BOPBC.filter-RNA.fastq.gz	BOPBC
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0706165L18	0706165L18.filter-RNA.fastq.gz	0706165L18
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPPY_0928169L18	BOPPY.filter-RNA.fastq.gz	BOPPY
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0906179L06	0906179L06.filter-RNA.fastq.gz	0906179L06
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/0823177L06	0823177L06.filter-RNA.fastq.gz	0823177L06
-Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPHW_0713166L18	BOPHW.filter-RNA.fastq.gz	BOPHW
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0814172R14	0814172R14.filter-RNA.fastq.gz	0814172R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCSN_0803169R14	BOCSN.filter-RNA.fastq.gz	BOCSN
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOPPO_0928169R14	BOPPO.filter-RNA.fastq.gz	BOPPO
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOPST_0914167R14	BOPST.filter-RNA.fastq.gz	BOPST
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCNC_0713166R14	BOCNC.filter-RNA.fastq.gz	BOCNC
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0726177R14	0726177R14.filter-RNA.fastq.gz	0726177R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0913172R14	0913172R14.filter-RNA.fastq.gz	0913172R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCHB_0622162R14	BOCHB.filter-RNA.fastq.gz	BOCHB
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCTZ_0817163R14	BOCTZ.filter-RNA.fastq.gz	BOCTZ
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0809179R14	0809179R14.filter-RNA.fastq.gz	0809179R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCTC_0810160R14	BOCTC.filter-RNA.fastq.gz	BOCTC
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0719176R14	0719176R14.filter-RNA.fastq.gz	0719176R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCNZ_0831165R14	BOCNZ.filter-RNA.fastq.gz	BOCNZ
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0812172R14	0812172R14.filter-RNA.fastq.gz	0812172R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0628173R14	0628173R14.filter-RNA.fastq.gz	0628173R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/1011174R14	1011174R14.filter-RNA.fastq.gz	1011174R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0802178R14	0802178R14.filter-RNA.fastq.gz	0802178R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0712175R14	0712175R14.filter-RNA.fastq.gz	0712175R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0823177R14	0823177R14.filter-RNA.fastq.gz	0823177R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCHT_0629164R14	BOCHT.filter-RNA.fastq.gz	BOCHT
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0816174R14	0816174R14.filter-RNA.fastq.gz	0816174R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0706165R14	0706165R14.filter-RNA.fastq.gz	0706165R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0705174R14	0705174R14.filter-RNA.fastq.gz	0705174R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0906179R14	0906179R14.filter-RNA.fastq.gz	0906179R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0811173R14	0811173R14.filter-RNA.fastq.gz	0811173R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0824164R14	0824164R14.filter-RNA.fastq.gz	0824164R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0810172R14	0810172R14.filter-RNA.fastq.gz	0810172R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep2/0830178R14	0830178R14.filter-RNA.fastq.gz	0830178R14
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPAH_0727168R17	BOPAH.filter-RNA.fastq.gz	BOPAH
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPGT_0622162R17	BOPGT.filter-RNA.fastq.gz	BOPGT
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/1011174R05	1011174R05.filter-RNA.fastq.gz	1011174R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0823177R05	0823177R05.filter-RNA.fastq.gz	0823177R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPSX_0914167R17	BOPSX.filter-RNA.fastq.gz	BOPSX
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPHC_0629164R17	BOPHC.filter-RNA.fastq.gz	BOPHC
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0913172R05	0913172R05.filter-RNA.fastq.gz	0913172R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPNP_0831165R17	BOPNP.filter-RNA.fastq.gz	BOPNP
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPPX_0928169R17	BOPPX.filter-RNA.fastq.gz	BOPPX
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPBY_0810160R17	BOPBY.filter-RNA.fastq.gz	BOPBY
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0830178R05	0830178R05.filter-RNA.fastq.gz	0830178R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPBB_0803169R17	BOPBB.filter-RNA.fastq.gz	BOPBB
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0816174R05	0816174R05.filter-RNA.fastq.gz	0816174R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0706165R17	0706165R17.filter-RNA.fastq.gz	0706165R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0906179R05	0906179R05.filter-RNA.fastq.gz	0906179R05
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPCU_0817163R17	BOPCU.filter-RNA.fastq.gz	BOPCU
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/0824164R17	0824164R17.filter-RNA.fastq.gz	0824164R17
-Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPHU_0713166R17	BOPHU.filter-RNA.fastq.gz	BOPHU
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCOB_0831165R19	BOCOB.filter-RNA.fastq.gz	BOCOB
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0821176R12	0821176R12.filter-RNA.fastq.gz	0821176R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCUB_0817163R19	BOCUB.filter-RNA.fastq.gz	BOCUB
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/1011174R12	1011174R12.filter-RNA.fastq.gz	1011174R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOPSB_0928169R19	BOPSB.filter-RNA.fastq.gz	BOPSB
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0913172R12	0913172R12.filter-RNA.fastq.gz	0913172R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCPU_0727168R19	BOCPU.filter-RNA.fastq.gz	BOCPU
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0816174R12	0816174R12.filter-RNA.fastq.gz	0816174R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCHW_0629164R19	BOCHW.filter-RNA.fastq.gz	BOCHW
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0823177R12	0823177R12.filter-RNA.fastq.gz	0823177R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCHG_0622162R19	BOCHG.filter-RNA.fastq.gz	BOCHG
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0830178R12	0830178R12.filter-RNA.fastq.gz	0830178R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOPSZ_0914167R19	BOPSZ.filter-RNA.fastq.gz	BOPSZ
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0906179R12	0906179R12.filter-RNA.fastq.gz	0906179R12
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0706165R19	0706165R19.filter-RNA.fastq.gz	0706165R19
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCGU_0615163R19	BOCGU.filter-RNA.fastq.gz	BOCGU
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCSP_0803169R19	BOCSP.filter-RNA.fastq.gz	BOCSP
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCNH_0713166R19	BOCNH.filter-RNA.fastq.gz	BOCNH
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/0824164R19	0824164R19.filter-RNA.fastq.gz	0824164R19
-Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCTH_0810160R19	BOCTH.filter-RNA.fastq.gz	BOCTH
-Sbicolor_libraries/BTx642_P_Irr2_Rep1/0817163P04	0817163P04.filter-RNA.fastq.gz	0817163P04
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0913172L01	0913172L01.filter-RNA.fastq.gz	0913172L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0823177L01	0823177L01.filter-RNA.fastq.gz	0823177L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0705174L01	0705174L01.filter-RNA.fastq.gz	0705174L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPBO_0810160L02	BOPBO.filter-RNA.fastq.gz	BOPBO
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPGZ_0629164L02	BOPGZ.filter-RNA.fastq.gz	BOPGZ
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0830178L01	0830178L01.filter-RNA.fastq.gz	0830178L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOCUN_0914167L02	BOCUN.filter-RNA.fastq.gz	BOCUN
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0816174L01	0816174L01.filter-RNA.fastq.gz	0816174L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0802178L01	0802178L01.filter-RNA.fastq.gz	0802178L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPCG_0817163L02	BOPCG.filter-RNA.fastq.gz	BOPCG
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0906179L01	0906179L01.filter-RNA.fastq.gz	0906179L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0818175L01	0818175L01.filter-RNA.fastq.gz	0818175L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPGC_0615163L02	BOPGC.filter-RNA.fastq.gz	BOPGC
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPAT_0803169L02	BOPAT.filter-RNA.fastq.gz	BOPAT
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/1011174L01	1011174L01.filter-RNA.fastq.gz	1011174L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0811173L01	0811173L01.filter-RNA.fastq.gz	0811173L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0810172L01	0810172L01.filter-RNA.fastq.gz	0810172L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0628173L01	0628173L01.filter-RNA.fastq.gz	0628173L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPOH_0928169L02	BOPOH.filter-RNA.fastq.gz	BOPOH
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0809179L01	0809179L01.filter-RNA.fastq.gz	0809179L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0719176L01	0719176L01.filter-RNA.fastq.gz	0719176L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0821176L01	0821176L01.filter-RNA.fastq.gz	0821176L01
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0706165L02	0706165L02.filter-RNA.fastq.gz	0706165L02
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPAB_0727168L02	BOPAB.filter-RNA.fastq.gz	BOPAB
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/0824164L02	0824164L02.filter-RNA.fastq.gz	0824164L02
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPNA_0831165L02	BOPNA.filter-RNA.fastq.gz	BOPNA
-Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPHP_0713166L02	BOPHP.filter-RNA.fastq.gz	BOPHP
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0830178R21	0830178R21.filter-RNA.fastq.gz	0830178R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0906179R21	0906179R21.filter-RNA.fastq.gz	0906179R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0816174R21	0816174R21.filter-RNA.fastq.gz	0816174R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0821176R21	0821176R21.filter-RNA.fastq.gz	0821176R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0921168R21	0921168R21.filter-RNA.fastq.gz	0921168R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPUT_0831165R21	BOPUT.filter-RNA.fastq.gz	BOPUT
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCYG_0817163R21	BOCYG.filter-RNA.fastq.gz	BOCYG
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCXO_0810160R21	BOCXO.filter-RNA.fastq.gz	BOCXO
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0823177R21	0823177R21.filter-RNA.fastq.gz	0823177R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPTB_0914167R21	BOPTB.filter-RNA.fastq.gz	BOPTB
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPSN_0928169R21	BOPSN.filter-RNA.fastq.gz	BOPSN
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/0913172R21	0913172R21.filter-RNA.fastq.gz	0913172R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCWT_0803169R21	BOCWT.filter-RNA.fastq.gz	BOCWT
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/1011174R21	1011174R21.filter-RNA.fastq.gz	1011174R21
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPTX_0824164R21	BOPTX.filter-RNA.fastq.gz	BOPTX
-Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPWO_0907166R21	BOPWO.filter-RNA.fastq.gz	BOPWO
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0906179R20	0906179R20.filter-RNA.fastq.gz	0906179R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPXC_0914167R11	BOPXC.filter-RNA.fastq.gz	BOPXC
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCUX_0727168R11	BOCUX.filter-RNA.fastq.gz	BOCUX
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCGH_0720167R11	BOCGH.filter-RNA.fastq.gz	BOCGH
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0814172R20	0814172R20.filter-RNA.fastq.gz	0814172R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCAT_0615163R11	BOCAT.filter-RNA.fastq.gz	BOCAT
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0809179R20	0809179R20.filter-RNA.fastq.gz	0809179R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCBU_0629164R11	BOCBU.filter-RNA.fastq.gz	BOCBU
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0821176R20	0821176R20.filter-RNA.fastq.gz	0821176R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0726177R20	0726177R20.filter-RNA.fastq.gz	0726177R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCCG_0706165R11	BOCCG.filter-RNA.fastq.gz	BOCCG
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0913172R20	0913172R20.filter-RNA.fastq.gz	0913172R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCXC_0810160R11	BOCXC.filter-RNA.fastq.gz	BOCXC
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0810172R20	0810172R20.filter-RNA.fastq.gz	0810172R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0719176R20	0719176R20.filter-RNA.fastq.gz	0719176R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPWC_0907166R11	BOPWC.filter-RNA.fastq.gz	BOPWC
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCCW_0713166R11	BOCCW.filter-RNA.fastq.gz	BOCCW
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/1011174R20	1011174R20.filter-RNA.fastq.gz	1011174R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCWN_0803169R11	BOCWN.filter-RNA.fastq.gz	BOCWN
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0811173R20	0811173R20.filter-RNA.fastq.gz	0811173R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCBC_0622162R11	BOCBC.filter-RNA.fastq.gz	BOCBC
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0812172R20	0812172R20.filter-RNA.fastq.gz	0812172R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0705174R20	0705174R20.filter-RNA.fastq.gz	0705174R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPUN_0831165R11	BOPUN.filter-RNA.fastq.gz	BOPUN
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPPA_0928169R11	BOPPA.filter-RNA.fastq.gz	BOPPA
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPTS_0824164R11	BOPTS.filter-RNA.fastq.gz	BOPTS
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0830178R20	0830178R20.filter-RNA.fastq.gz	0830178R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0712175R20	0712175R20.filter-RNA.fastq.gz	0712175R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0802178R20	0802178R20.filter-RNA.fastq.gz	0802178R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0816174R20	0816174R20.filter-RNA.fastq.gz	0816174R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0823177R20	0823177R20.filter-RNA.fastq.gz	0823177R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/0818175R20	0818175R20.filter-RNA.fastq.gz	0818175R20
-Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCXZ_0817163R11	BOCXZ.filter-RNA.fastq.gz	BOCXZ
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPBA_0803169L17	BOPBA.filter-RNA.fastq.gz	BOPBA
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0830178L05	0830178L05.filter-RNA.fastq.gz	0830178L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPHT_0713166L17	BOPHT.filter-RNA.fastq.gz	BOPHT
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0823177L05	0823177L05.filter-RNA.fastq.gz	0823177L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPNO_0831165L17	BOPNO.filter-RNA.fastq.gz	BOPNO
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0906179L05	0906179L05.filter-RNA.fastq.gz	0906179L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPPW_0928169L17	BOPPW.filter-RNA.fastq.gz	BOPPW
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0816174L05	0816174L05.filter-RNA.fastq.gz	0816174L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0706165L17	0706165L17.filter-RNA.fastq.gz	0706165L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPBX_0810160L17	BOPBX.filter-RNA.fastq.gz	BOPBX
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0913172L05	0913172L05.filter-RNA.fastq.gz	0913172L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPCT_0817163L17	BOPCT.filter-RNA.fastq.gz	BOPCT
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPGS_0622162L17	BOPGS.filter-RNA.fastq.gz	BOPGS
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/0824164L17	0824164L17.filter-RNA.fastq.gz	0824164L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPHB_0629164L17	BOPHB.filter-RNA.fastq.gz	BOPHB
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/1011174L05	1011174L05.filter-RNA.fastq.gz	1011174L05
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPNZ_0914167L17	BOPNZ.filter-RNA.fastq.gz	BOPNZ
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPAG_0727168L17	BOPAG.filter-RNA.fastq.gz	BOPAG
-Sbicolor_libraries/BTx642_Root_Irr3_Rep5/0628173R29	0628173R29.filter-RNA.fastq.gz	0628173R29
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCCS_0713166L06	BOCCS.filter-RNA.fastq.gz	BOCCS
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0913172L17	0913172L17.filter-RNA.fastq.gz	0913172L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0712175L17	0712175L17.filter-RNA.fastq.gz	0712175L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPUC_0831165L06	BOPUC.filter-RNA.fastq.gz	BOPUC
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0906179L17	0906179L17.filter-RNA.fastq.gz	0906179L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0814172L17	0814172L17.filter-RNA.fastq.gz	0814172L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCYP_0921168L06	BOCYP.filter-RNA.fastq.gz	BOCYP
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPOX_0928169L06	BOPOX.filter-RNA.fastq.gz	BOPOX
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0802178L17	0802178L17.filter-RNA.fastq.gz	0802178L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCXW_0817163L06	BOCXW.filter-RNA.fastq.gz	BOCXW
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCWZ_0810160L06	BOCWZ.filter-RNA.fastq.gz	BOCWZ
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPUZ_0907166L06	BOPUZ.filter-RNA.fastq.gz	BOPUZ
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0823177L17	0823177L17.filter-RNA.fastq.gz	0823177L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPTN_0824164L06	BOPTN.filter-RNA.fastq.gz	BOPTN
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0726177L17	0726177L17.filter-RNA.fastq.gz	0726177L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0811173L17	0811173L17.filter-RNA.fastq.gz	0811173L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCGB_0720167L06	BOCGB.filter-RNA.fastq.gz	BOCGB
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCBP_0629164L06	BOCBP.filter-RNA.fastq.gz	BOCBP
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCGS_0914167L06	BOCGS.filter-RNA.fastq.gz	BOCGS
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCWC_0803169L06	BOCWC.filter-RNA.fastq.gz	BOCWC
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0830178L17	0830178L17.filter-RNA.fastq.gz	0830178L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCUT_0727168L06	BOCUT.filter-RNA.fastq.gz	BOCUT
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCAZ_0622162L06	BOCAZ.filter-RNA.fastq.gz	BOCAZ
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/1011174L17	1011174L17.filter-RNA.fastq.gz	1011174L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0812172L17	0812172L17.filter-RNA.fastq.gz	0812172L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCCA_0706165L06	BOCCA.filter-RNA.fastq.gz	BOCCA
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0816174L17	0816174L17.filter-RNA.fastq.gz	0816174L17
-Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/0809179L17	0809179L17.filter-RNA.fastq.gz	0809179L17
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPPS	587a7fd77ded5e4229d88426.11238.8.197219.AGTCTCA-GTGAGAC.fastq.gz	BOPPS	587a7fd77ded5e4229d88426
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPNG	5877fceb7ded5e4229d868bc.11228.3.196763.TCACAGC-TGCTGTG.fastq.gz	BOPNG	5877fceb7ded5e4229d868bc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPSU	587a88a87ded5e4229d88486.11237.4.197254.GAGGACT-AAGTCCT.fastq.gz	BOPSU	587a88a87ded5e4229d88486
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPCO	5877fdc07ded5e4229d8691f.11228.8.196807.TCTCTTC-GGAAGAG.fastq.gz	BOPCO	5877fdc07ded5e4229d8691f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep2/BOPBT	587a7f717ded5e4229d883e5.11238.5.197192.GTAACGA-GTCGTTA.fastq.gz	BOPBT	587a7f717ded5e4229d883e5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCAW	585d51bc7ded5e78cff90b9a.11193.4.195671.TACCAAC-GGTTGGT.fastq.gz	BOCAW	585d51bc7ded5e78cff90b9a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPXG	587a886f7ded5e4229d88462.11237.2.197237.AGCTCCT-TAGGAGC.fastq.gz	BOPXG	587a886f7ded5e4229d88462
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCCY	585d52777ded5e78cff90bf5.11193.8.195707.AGTAGTC-GGACTAC.fastq.gz	BOCCY	585d52777ded5e78cff90bf5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPWH	587a7fc87ded5e4229d8841c.11238.7.197210.CTCGATA-GTATCGA.fastq.gz	BOPWH	587a7fc87ded5e4229d8841c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCCN	58828af37ded5e69567ee379.11250.1.197760.ATTGAGC-GGCTCAA.fastq.gz	BOCCN	58828af37ded5e69567ee379
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCUZ	585eae427ded5e78cff916c0.11199.8.195834.GAAGTAC-GGTACTT.fastq.gz	BOCUZ	585eae427ded5e78cff916c0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPUP	587a88897ded5e4229d88473.11237.3.197246.AAGAGCC-TGGCTCT.fastq.gz	BOPUP	587a88897ded5e4229d88473
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCXH	585eae4b7ded5e78cff916c4.11199.8.195834.CACCTTA-GTAAGGT.fastq.gz	BOCXH	585eae4b7ded5e78cff916c4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPTU	587a7fbc7ded5e4229d88415.11238.7.197210.GAAGTAC-GGTACTT.fastq.gz	BOPTU	587a7fbc7ded5e4229d88415
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCBH	585d52727ded5e78cff90bf2.11193.8.195707.ACGGAAC-TGTTCCG.fastq.gz	BOCBH	585d52727ded5e78cff90bf2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCBX	585d51507ded5e78cff90b6a.11193.2.195651.CGCTTAA-GTTAAGC.fastq.gz	BOCBX	585d51507ded5e78cff90b6a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOPPC	587a89267ded5e4229d884d7.11237.8.197290.TCATCAC-GGTGATG.fastq.gz	BOPPC	587a89267ded5e4229d884d7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCYB	585eae4f7ded5e78cff916c6.11199.8.195834.TGTGGTA-GTACCAC.fastq.gz	BOCYB	585eae4f7ded5e78cff916c6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCGO	58828b4a7ded5e69567ee3a3.11250.3.197778.TCGGTTA-GTAACCG.fastq.gz	BOCGO	58828b4a7ded5e69567ee3a3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep2/BOCWP	58828c137ded5e69567ee3ff.11250.7.197813.CCAAGCA-TTGCTTG.fastq.gz	BOCWP	58828c137ded5e69567ee3ff
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCGC	58828af67ded5e69567ee37b.11250.1.197760.AGAATGC-GGCATTC.fastq.gz	BOCGC	58828af67ded5e69567ee37b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCXA	58828bb27ded5e69567ee3d3.11250.5.197796.AACGGTC-TGACCGT.fastq.gz	BOCXA	58828bb27ded5e69567ee3d3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPOY	587a88e37ded5e4229d884ac.11237.6.197272.ACGGAAC-TGTTCCG.fastq.gz	BOPOY	587a88e37ded5e4229d884ac
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCWG	58828c0b7ded5e69567ee3fc.11250.7.197813.CACTGAC-TGTCAGT.fastq.gz	BOCWG	58828c0b7ded5e69567ee3fc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPTO	587a7fe97ded5e4229d88430.11238.8.197219.TGGATCA-GTGATCC.fastq.gz	BOPTO	587a7fe97ded5e4229d88430
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPWA	587a7fc47ded5e4229d8841a.11238.7.197210.CACCTTA-GTAAGGT.fastq.gz	BOPWA	587a7fc47ded5e4229d8841a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCCT	58828b817ded5e69567ee3bd.11250.4.197787.TGACTGA-GTCAGTC.fastq.gz	BOCCT	58828b817ded5e69567ee3bd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCBS	58828b457ded5e69567ee3a1.11250.3.197778.TCATCAC-GGTGATG.fastq.gz	BOCBS	58828b457ded5e69567ee3a1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCUU	58828c487ded5e69567ee415.11250.8.197821.TGGATCA-GTGATCC.fastq.gz	BOCUU	58828c487ded5e69567ee415
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCCB	58828aef7ded5e69567ee377.11250.1.197760.TTCGTAC-GGTACGA.fastq.gz	BOCCB	58828aef7ded5e69567ee377
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCXX	58828c197ded5e69567ee401.11250.7.197813.CTATCGC-TGCGATA.fastq.gz	BOCXX	58828c197ded5e69567ee401
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOPUG	587a88837ded5e4229d8846f.11237.3.197246.CCAAGCA-TTGCTTG.fastq.gz	BOPUG	587a88837ded5e4229d8846f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep1/BOCBA	585d521a7ded5e78cff90bc7.11193.6.195689.TGTACAC-GGTGTAC.fastq.gz	BOCBA	585d521a7ded5e78cff90bc7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOPSG	587a7fe17ded5e4229d8842b.11238.8.197219.TGACTGA-GTCAGTC.fastq.gz	BOPSG	587a7fe17ded5e4229d8842b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOPTA	587a7fb57ded5e4229d88411.11238.7.197210.TCGGTTA-GTAACCG.fastq.gz	BOPTA	587a7fb57ded5e4229d88411
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCST	58828b9d7ded5e69567ee3cb.11250.5.197796.GCTACGT-AACGTAG.fastq.gz	BOCST	58828b9d7ded5e69567ee3cb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCGX	58828b897ded5e69567ee3c0.11250.4.197787.TGGATCA-GTGATCC.fastq.gz	BOCGX	58828b897ded5e69567ee3c0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCTO	585eac637ded5e78cff915da.11198.4.195869.CCTTCCT-AAGGAAG.fastq.gz	BOCTO	585eac637ded5e78cff915da
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCOG	58828b607ded5e69567ee3ad.11250.3.197778.TGTGGTA-GTACCAC.fastq.gz	BOCOG	58828b607ded5e69567ee3ad
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCUG	585ead127ded5e78cff9162e.11198.8.195902.CGACCAT-AATGGTC.fastq.gz	BOCUG	585ead127ded5e78cff9162e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCPX	585ead7d7ded5e78cff91662.11199.4.195798.CCAGTGT-AACACTG.fastq.gz	BOCPX	585ead7d7ded5e78cff91662
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCHN	585d51597ded5e78cff90b6e.11193.2.195651.CACTGAC-TGTCAGT.fastq.gz	BOCHN	585d51597ded5e78cff90b6e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCNO	58828b567ded5e69567ee3a8.11250.3.197778.CACCTTA-GTAAGGT.fastq.gz	BOCNO	58828b567ded5e69567ee3a8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep3/BOCHY	585d519e7ded5e78cff90b8c.11193.3.195661.AAGAGCC-TGGCTCT.fastq.gz	BOCHY	585d519e7ded5e78cff90b8c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCNS	58828b007ded5e69567ee380.11250.1.197760.GTGAATC-GGATTCA.fastq.gz	BOCNS	58828b007ded5e69567ee380
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOPWY	587a89367ded5e4229d884e0.11237.8.197290.GCATGTC-AGACATG.fastq.gz	BOPWY	587a89367ded5e4229d884e0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOPOP	587a887a7ded5e4229d8846a.11237.3.197246.CTGACAC-TGTGTCA.fastq.gz	BOPOP	587a887a7ded5e4229d8846a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCTS	585eac667ded5e78cff915db.11198.4.195869.GTCTCCT-AAGGAGA.fastq.gz	BOCTS	585eac667ded5e78cff915db
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCPZ	585eadaf7ded5e78cff91678.11199.5.195807.TCGCTGT-AACAGCG.fastq.gz	BOCPZ	585eadaf7ded5e78cff91678
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep1/BOCSW	58828bcb7ded5e69567ee3e0.11250.6.197805.TCCGAGT-AACTCGG.fastq.gz	BOCSW	58828bcb7ded5e69567ee3e0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCBZ	585d51857ded5e78cff90b82.11193.3.195661.AGTCTCA-GTGAGAC.fastq.gz	BOCBZ	585d51857ded5e78cff90b82
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPOW	587a88bf7ded5e4229d88495.11237.5.197263.AGCTAAC-GGTTAGC.fastq.gz	BOPOW	587a88bf7ded5e4229d88495
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCCP	58828b7c7ded5e69567ee3bb.11250.4.197787.CAATCGA-GTCGATT.fastq.gz	BOCCP	58828b7c7ded5e69567ee3bb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCBO	58828aea7ded5e69567ee374.11250.1.197760.ACAGCAA-GTTGCTG.fastq.gz	BOCBO	58828aea7ded5e69567ee374
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCXU	58828be97ded5e69567ee3ed.11250.6.197805.TCACAGC-TGCTGTG.fastq.gz	BOCXU	58828be97ded5e69567ee3ed
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCUS	58828c067ded5e69567ee3fb.11250.7.197813.GGATACC-TGGTATC.fastq.gz	BOCUS	58828c067ded5e69567ee3fb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCWB	585eae477ded5e78cff916c2.11199.8.195834.TAGTGAC-GGTCACT.fastq.gz	BOCWB	585eae477ded5e78cff916c2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPTH	587a887d7ded5e4229d8846c.11237.3.197246.GGATACC-TGGTATC.fastq.gz	BOPTH	587a887d7ded5e4229d8846c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCAY	585d51ed7ded5e78cff90bb1.11193.5.195680.CTGACAC-TGTGTCA.fastq.gz	BOCAY	585d51ed7ded5e78cff90bb1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCWY	585eae1e7ded5e78cff916ae.11199.7.195825.TATTCGC-GGCGAAT.fastq.gz	BOCWY	585eae1e7ded5e78cff916ae
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPUB	587a7feb7ded5e4229d88431.11238.8.197219.CATACCA-GTGGTAT.fastq.gz	BOPUB	587a7feb7ded5e4229d88431
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPUY	587a88657ded5e4229d8845c.11237.2.197237.TTGAGGC-TGCCTCA.fastq.gz	BOPUY	587a88657ded5e4229d8845c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOCGA	585d527e7ded5e78cff90bf7.11193.8.195707.TCTCTTC-GGAAGAG.fastq.gz	BOCGA	585d527e7ded5e78cff90bf7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep1/BOPXA	587a89387ded5e4229d884e1.11237.8.197290.CAAGGTC-AGACCTT.fastq.gz	BOPXA	587a89387ded5e4229d884e1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGY	587a7f817ded5e4229d883ef.11238.5.197192.CATACCA-GTGGTAT.fastq.gz	BOPGY	587a7f817ded5e4229d883ef
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPBN	5877fca17ded5e4229d86896.11228.2.196754.AGTCTCA-GTGAGAC.fastq.gz	BOPBN	5877fca17ded5e4229d86896
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPAS	5877fd857ded5e4229d86908.11228.7.196799.AGCTAAC-GGTTAGC.fastq.gz	BOPAS	5877fd857ded5e4229d86908
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPWW	587a89317ded5e4229d884dd.11237.8.197290.ACACCAG-ACTGGTG.fastq.gz	BOPWW	587a89317ded5e4229d884dd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPHO	587a7f3a7ded5e4229d883c2.11238.3.197174.TATTCGC-GGCGAAT.fastq.gz	BOPHO	587a7f3a7ded5e4229d883c2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPCC	587a7f7a7ded5e4229d883eb.11238.5.197192.ACGATGA-GTCATCG.fastq.gz	BOPCC	587a7f7a7ded5e4229d883eb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGN	5877fca37ded5e4229d86897.11228.2.196754.GCCATAA-GTTATGG.fastq.gz	BOPGN	5877fca37ded5e4229d86897
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPAA	5877fa1f7ded5e4229d8685d.11228.1.196745.ATAGCGG-ACCGCTA.fastq.gz	BOPAA	5877fa1f7ded5e4229d8685d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPOG	587a88377ded5e4229d8843f.11237.1.197228.ATAGCGG-ACCGCTA.fastq.gz	BOPOG	587a88377ded5e4229d8843f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPGB	5877fccf7ded5e4229d868af.11228.3.196763.GGATACC-TGGTATC.fastq.gz	BOPGB	5877fccf7ded5e4229d868af
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr3_Rep1/BOPHZ	587a7f3e7ded5e4229d883c4.11238.3.197174.GTGAATC-GGATTCA.fastq.gz	BOPHZ	587a7f3e7ded5e4229d883c4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPWN	587a89167ded5e4229d884cb.11237.7.197281.CGTTGAG-ACTCAAC.fastq.gz	BOPWN	587a89167ded5e4229d884cb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCUO	585eae3c7ded5e78cff916be.11199.8.195834.GTTCAAC-GGTTGAA.fastq.gz	BOCUO	585eae3c7ded5e78cff916be
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCXN	585eadbf7ded5e78cff9167f.11199.5.195807.ACCGTAG-ACTACGG.fastq.gz	BOCXN	585eadbf7ded5e78cff9167f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPSH	587a884b7ded5e4229d8844b.11237.1.197228.GTCTCCT-AAGGAGA.fastq.gz	BOPSH	587a884b7ded5e4229d8844b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCWS	585ead8d7ded5e78cff91669.11199.4.195798.TAACCGG-ACCGGTT.fastq.gz	BOCWS	585ead8d7ded5e78cff91669
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPWT	587a892f7ded5e4229d884dc.11237.8.197290.AGTGCAG-ACTGCAC.fastq.gz	BOPWT	587a892f7ded5e4229d884dc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPUS	587a88f47ded5e4229d884b6.11237.6.197272.AGAAGCG-ACGCTTC.fastq.gz	BOPUS	587a88f47ded5e4229d884b6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOPTW	587a88d07ded5e4229d8849f.11237.5.197263.CGAACTG-ACAGTTC.fastq.gz	BOPTW	587a88d07ded5e4229d8849f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep3/BOCYC	585eadef7ded5e78cff91698.11199.6.195816.GCATGTC-AGACATG.fastq.gz	BOCYC	585eadef7ded5e78cff91698
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCSG	585eae047ded5e78cff916a4.11199.7.195825.GTTCGGT-AACCGAA.fastq.gz	BOCSG	585eae047ded5e78cff916a4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCNA	58828afd7ded5e69567ee37f.11250.1.197760.TATTCGC-GGCGAAT.fastq.gz	BOCNA	58828afd7ded5e69567ee37f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCTA	585eac537ded5e78cff915d3.11198.4.195869.ACGGTCT-AAGACCG.fastq.gz	BOCTA	585eac537ded5e78cff915d3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCHP	58828b8f7ded5e69567ee3c3.11250.4.197787.CATACCA-GTGGTAT.fastq.gz	BOCHP	58828b8f7ded5e69567ee3c3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCGZ	585d51567ded5e78cff90b6d.11193.2.195651.GCCATAA-GTTATGG.fastq.gz	BOCGZ	585d51567ded5e78cff90b6d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOPPH	587a7f8f7ded5e4229d883fa.11238.6.197201.ACCATCC-TGGATGG.fastq.gz	BOPPH	587a7f8f7ded5e4229d883fa
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCNX	585d51a67ded5e78cff90b8f.11193.3.195661.TCACAGC-TGCTGTG.fastq.gz	BOCNX	585d51a67ded5e78cff90b8f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCTX	585ead037ded5e78cff91628.11198.8.195902.AGAGCCT-AAGGCTC.fastq.gz	BOCTX	585ead037ded5e78cff91628
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOCPP	585eac4d7ded5e78cff915d1.11198.4.195869.ATAGCGG-ACCGCTA.fastq.gz	BOCPP	585eac4d7ded5e78cff915d1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep2/BOPSS	587a88a37ded5e4229d88483.11237.4.197254.AGAGCCT-AAGGCTC.fastq.gz	BOPSS	587a88a37ded5e4229d88483
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPBH	5877fc9d7ded5e4229d86893.11228.2.196754.TCCGAGT-AACTCGG.fastq.gz	BOPBH	5877fc9d7ded5e4229d86893
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGA	5877fd327ded5e4229d868dd.11228.5.196781.CAGAGTG-ACACTCT.fastq.gz	BOPGA	5877fd327ded5e4229d868dd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOOZZ	5877fa1b7ded5e4229d8685b.11228.1.196745.GAGCTCA-TTGAGCT.fastq.gz	BOOZZ	5877fa1b7ded5e4229d8685b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPAP	5877fd7f7ded5e4229d86905.11228.7.196799.TCGCTGT-AACAGCG.fastq.gz	BOPAP	5877fd7f7ded5e4229d86905
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPHN	5877fd6c7ded5e4229d868f9.11228.6.196790.AGAAGCG-ACGCTTC.fastq.gz	BOPHN	5877fd6c7ded5e4229d868f9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPOC	587a88337ded5e4229d8843d.11237.1.197228.GAGCTCA-TTGAGCT.fastq.gz	BOPOC	587a88337ded5e4229d8843d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPHY	5877fd8e7ded5e4229d8690b.11228.7.196799.ACCGTAG-ACTACGG.fastq.gz	BOPHY	5877fd8e7ded5e4229d8690b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGH	5877fd3c7ded5e4229d868e2.11228.5.196781.CTTGCTG-ACAGCAA.fastq.gz	BOPGH	5877fd3c7ded5e4229d868e2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPCB	5877fd047ded5e4229d868c7.11228.4.196772.GTCTCCT-AAGGAGA.fastq.gz	BOPCB	5877fd047ded5e4229d868c7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep1/BOPGX	5877fd4b7ded5e4229d868e8.11228.5.196781.TGCTTGG-ACCAAGC.fastq.gz	BOPGX	5877fd4b7ded5e4229d868e8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCHH	585d52047ded5e78cff90bbb.11193.5.195680.TGGCATG-ACATGCC.fastq.gz	BOCHH	585d52047ded5e78cff90bbb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCHX	585d52297ded5e78cff90bcd.11193.6.195689.GTCTAGG-ACCTAGA.fastq.gz	BOCHX	585d52297ded5e78cff90bcd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOPSC	587a88497ded5e4229d8844a.11237.1.197228.CCTTCCT-AAGGAAG.fastq.gz	BOPSC	587a88497ded5e4229d8844a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCUC	58828bd57ded5e69567ee3e4.11250.6.197805.AGCAAGC-TGCTTGC.fastq.gz	BOCUC	58828bd57ded5e69567ee3e4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCSS	58828c2f7ded5e69567ee40b.11250.8.197821.ACCATCC-TGGATGG.fastq.gz	BOCSS	58828c2f7ded5e69567ee40b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCOT	585d51717ded5e78cff90b78.11193.2.195651.AGCTCCT-TAGGAGC.fastq.gz	BOCOT	585d51717ded5e78cff90b78
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCOC	585d52867ded5e78cff90bfa.11193.8.195707.ACACCAG-ACTGGTG.fastq.gz	BOCOC	585d52867ded5e78cff90bfa
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCPW	585ead537ded5e78cff9164d.11199.3.195789.CTGACAC-TGTGTCA.fastq.gz	BOCPW	585ead537ded5e78cff9164d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCGW	585d51f07ded5e78cff90bb2.11193.5.195680.ACCTCTG-ACAGAGG.fastq.gz	BOCGW	585d51f07ded5e78cff90bb2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCNN	585d524b7ded5e78cff90bdf.11193.7.195698.TTGGACG-ACGTCCA.fastq.gz	BOCNN	585d524b7ded5e78cff90bdf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep3/BOCTN	58828c377ded5e69567ee40f.11250.8.197821.CAATCGA-GTCGATT.fastq.gz	BOCTN	58828c377ded5e69567ee40f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCXP	585eadc47ded5e78cff91682.11199.5.195807.GCGATAG-ACTATCG.fastq.gz	BOCXP	585eadc47ded5e78cff91682
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPWU	587a7fa57ded5e4229d88406.11238.6.197201.GACATTC-GGAATGT.fastq.gz	BOPWU	587a7fa57ded5e4229d88406
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPTY	587a88d57ded5e4229d884a2.11237.5.197263.TGGCATG-ACATGCC.fastq.gz	BOPTY	587a88d57ded5e4229d884a2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPUU	587a88f67ded5e4229d884b7.11237.6.197272.TGTACCG-ACGGTAC.fastq.gz	BOPUU	587a88f67ded5e4229d884b7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCWU	585ead917ded5e78cff9166b.11199.4.195798.GTCTAGG-ACCTAGA.fastq.gz	BOCWU	585ead917ded5e78cff9166b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOCYH	585eadf27ded5e78cff91699.11199.6.195816.CAAGGTC-AGACCTT.fastq.gz	BOCYH	585eadf27ded5e78cff91699
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPSO	587a88a17ded5e4229d88482.11237.4.197254.TACGCCT-AAGGCGT.fastq.gz	BOPSO	587a88a17ded5e4229d88482
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep3/BOPWP	587a891a7ded5e4229d884ce.11237.7.197281.GATCGAG-ACTCGAT.fastq.gz	BOPWP	587a891a7ded5e4229d884ce
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPHH	5877fce27ded5e4229d868b8.11228.3.196763.AAGAGCC-TGGCTCT.fastq.gz	BOPHH	5877fce27ded5e4229d868b8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPGW	5877fcd57ded5e4229d868b2.11228.3.196763.CACTGAC-TGTCAGT.fastq.gz	BOPGW	5877fcd57ded5e4229d868b2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPAO	5877fd5a7ded5e4229d868f1.11228.6.196790.TGTACAC-GGTGTAC.fastq.gz	BOPAO	5877fd5a7ded5e4229d868f1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPBG	587a7f6e7ded5e4229d883e4.11238.5.197192.CGCTTAA-GTTAAGC.fastq.gz	BOPBG	587a7f6e7ded5e4229d883e4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPNT	587a7f627ded5e4229d883da.11238.4.197183.TGTGGTA-GTACCAC.fastq.gz	BOPNT	587a7f627ded5e4229d883da
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPCA	587a7f787ded5e4229d883ea.11238.5.197192.TGACTGA-GTCAGTC.fastq.gz	BOPCA	587a7f787ded5e4229d883ea
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPCX	587a7f4f7ded5e4229d883d0.11238.4.197183.TCGGTTA-GTAACCG.fastq.gz	BOPCX	587a7f4f7ded5e4229d883d0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPPZ	587a7f927ded5e4229d883fb.11238.6.197201.ATTGAGC-GGCTCAA.fastq.gz	BOPPZ	587a7f927ded5e4229d883fb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr1_Rep3/BOPHX	587a7f587ded5e4229d883d5.11238.4.197183.CACCTTA-GTAAGGT.fastq.gz	BOPHX	587a7f587ded5e4229d883d5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPCP	5877fd127ded5e4229d868ce.11228.4.196772.GAGGACT-AAGTCCT.fastq.gz	BOPCP	5877fd127ded5e4229d868ce
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPBU	5877fa2b7ded5e4229d86864.11228.1.196745.GAACGCT-AAGCGTT.fastq.gz	BOPBU	5877fa2b7ded5e4229d86864
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPAY	587a7f247ded5e4229d883b5.11238.3.197174.CGTAGGT-AACCTAC.fastq.gz	BOPAY	587a7f247ded5e4229d883b5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPNY	5877fcbe7ded5e4229d868a3.11228.2.196754.TGTCCAG-TCTGGAC.fastq.gz	BOPNY	5877fcbe7ded5e4229d868a3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep2/BOPPT	587a88567ded5e4229d88453.11237.2.197237.CCTCAGT-AACTGAG.fastq.gz	BOPPT	587a88567ded5e4229d88453
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCGT	585d51d67ded5e78cff90ba6.11193.4.195671.CAGAGTG-ACACTCT.fastq.gz	BOCGT	585d51d67ded5e78cff90ba6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCHC	585d51fe7ded5e78cff90bb8.11193.5.195680.CGAACTG-ACAGTTC.fastq.gz	BOCHC	585d51fe7ded5e78cff90bb8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCHU	585d52237ded5e78cff90bca.11193.6.195689.TAACCGG-ACCGGTT.fastq.gz	BOCHU	585d52237ded5e78cff90bca
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCUA	585eae1a7ded5e78cff916ac.11199.7.195825.AGAATGC-GGCATTC.fastq.gz	BOCUA	585eae1a7ded5e78cff916ac
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCPT	585eacf97ded5e78cff91623.11198.8.195902.TACCAAC-GGTTGGT.fastq.gz	BOCPT	585eacf97ded5e78cff91623
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOPSA	587a88457ded5e4229d88448.11237.1.197228.GTGAGCT-AAGCTCA.fastq.gz	BOPSA	587a88457ded5e4229d88448
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCTG	585eae107ded5e78cff916a8.11199.7.195825.ATTGAGC-GGCTCAA.fastq.gz	BOCTG	585eae107ded5e78cff916a8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCOS	585d528f7ded5e78cff90bff.11193.8.195707.TAGCGTC-AGACGCT.fastq.gz	BOCOS	585d528f7ded5e78cff90bff
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCOA	585d52637ded5e78cff90be9.11193.7.195698.AGTGCAG-ACTGCAC.fastq.gz	BOCOA	585d52637ded5e78cff90be9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCNG	585d52347ded5e78cff90bd3.11193.6.195689.CCATACG-ACGTATG.fastq.gz	BOCNG	585d52347ded5e78cff90bd3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep3/BOCSO	585eae377ded5e78cff916bb.11199.8.195834.TCATCAC-GGTGATG.fastq.gz	BOCSO	585eae377ded5e78cff916bb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCTT	58828c437ded5e69567ee413.11250.8.197821.ACGATGA-GTCATCG.fastq.gz	BOCTT	58828c437ded5e69567ee413
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCON	585d51697ded5e78cff90b75.11193.2.195651.ATGCACG-TCGTGCA.fastq.gz	BOCON	585d51697ded5e78cff90b75
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCNT	585d52537ded5e78cff90be2.11193.7.195698.GCGATAG-ACTATCG.fastq.gz	BOCNT	585d52537ded5e78cff90be2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCSA	585eadb37ded5e78cff9167a.11199.5.195807.AGCTAAC-GGTTAGC.fastq.gz	BOCSA	585eadb37ded5e78cff9167a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOCSX	58828bd27ded5e69567ee3e3.11250.6.197805.AGTCTCA-GTGAGAC.fastq.gz	BOCSX	58828bd27ded5e69567ee3e3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep1/BOPOS	587a889a7ded5e4229d8847e.11237.4.197254.CCAGTGT-AACACTG.fastq.gz	BOPOS	587a889a7ded5e4229d8847e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPHA	5877fcda7ded5e4229d868b4.11228.3.196763.CCAAGCA-TTGCTTG.fastq.gz	BOPHA	5877fcda7ded5e4229d868b4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPGP	587a7f377ded5e4229d883c0.11238.3.197174.GAAGTAC-GGTACTT.fastq.gz	BOPGP	587a7f377ded5e4229d883c0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPNB	587a7f5c7ded5e4229d883d7.11238.4.197183.CTCGATA-GTATCGA.fastq.gz	BOPNB	587a7f5c7ded5e4229d883d7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPAC	5877fcfe7ded5e4229d868c5.11228.4.196772.TACCAAC-GGTTGGT.fastq.gz	BOPAC	5877fcfe7ded5e4229d868c5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPHS	5877fca97ded5e4229d8689a.11228.2.196754.AACGGTC-TGACCGT.fastq.gz	BOPHS	5877fca97ded5e4229d8689a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPAU	5877fdb57ded5e4229d8691b.11228.8.196807.ACGGAAC-TGTTCCG.fastq.gz	BOPAU	5877fdb57ded5e4229d8691b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPGG	587a7f7f7ded5e4229d883ee.11238.5.197192.TGGATCA-GTGATCC.fastq.gz	BOPGG	587a7f7f7ded5e4229d883ee
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPBP	587a7f2b7ded5e4229d883b9.11238.3.197174.TTCGTAC-GGTACGA.fastq.gz	BOPBP	587a7f2b7ded5e4229d883b9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep1/BOPCH	5877fdbd7ded5e4229d8691e.11228.8.196807.AGTAGTC-GGACTAC.fastq.gz	BOPCH	5877fdbd7ded5e4229d8691e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPNX	5877fdcf7ded5e4229d86925.11228.8.196807.CAAGGTC-AGACCTT.fastq.gz	BOPNX	5877fdcf7ded5e4229d86925
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPCN	5877fd0e7ded5e4229d868cc.11228.4.196772.AGAGCCT-AAGGCTC.fastq.gz	BOPCN	5877fd0e7ded5e4229d868cc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPAW	5877fa217ded5e4229d8685e.11228.1.196745.GTTCGGT-AACCGAA.fastq.gz	BOPAW	5877fa217ded5e4229d8685e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPNC	5877fce67ded5e4229d868ba.11228.3.196763.CGTTGAG-ACTCAAC.fastq.gz	BOPNC	5877fce67ded5e4229d868ba
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPPP	587a7fd37ded5e4229d88424.11238.8.197219.TCCGAGT-AACTCGG.fastq.gz	BOPPP	587a7fd37ded5e4229d88424
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr2_Rep2/BOPBS	5877fa287ded5e4229d86862.11228.1.196745.ACGGTCT-AAGACCG.fastq.gz	BOPBS	5877fa287ded5e4229d86862
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPNU	5877fdcc7ded5e4229d86924.11228.8.196807.GCATGTC-AGACATG.fastq.gz	BOPNU	5877fdcc7ded5e4229d86924
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCGG	585d51ca7ded5e78cff90ba0.11193.4.195671.GCTGGAT-AATCCAG.fastq.gz	BOCGG	585d51ca7ded5e78cff90ba0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCAS	585d511d7ded5e78cff90b53.11193.1.195642.GAGCTCA-TTGAGCT.fastq.gz	BOCAS	585d511d7ded5e78cff90b53
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPUH	587a88ed7ded5e4229d884b1.11237.6.197272.TAACCGG-ACCGGTT.fastq.gz	BOPUH	587a88ed7ded5e4229d884b1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCXY	585eade47ded5e78cff91693.11199.6.195816.AGTGCAG-ACTGCAC.fastq.gz	BOCXY	585eade47ded5e78cff91693
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCBT	58828b717ded5e69567ee3b5.11250.4.197787.TGTGCGT-AACGCAC.fastq.gz	BOCBT	58828b717ded5e69567ee3b5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPOZ	587a89007ded5e4229d884bf.11237.7.197281.GTTCGGT-AACCGAA.fastq.gz	BOPOZ	587a89007ded5e4229d884bf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCXB	585eadb87ded5e78cff9167c.11199.5.195807.CCATACG-ACGTATG.fastq.gz	BOCXB	585eadb87ded5e78cff9167c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCCC	585d51297ded5e78cff90b59.11193.1.195642.ACGGTCT-AAGACCG.fastq.gz	BOCCC	585d51297ded5e78cff90b59
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPWB	587a890f7ded5e4229d884c8.11237.7.197281.ACCGTAG-ACTACGG.fastq.gz	BOPWB	587a890f7ded5e4229d884c8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCUW	585ead617ded5e78cff91653.11199.3.195789.CTTGCTG-ACAGCAA.fastq.gz	BOCUW	585ead617ded5e78cff91653
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCWH	585ead847ded5e78cff91665.11199.4.195798.TGCTTGG-ACCAAGC.fastq.gz	BOCWH	585ead847ded5e78cff91665
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCBB	585d52427ded5e78cff90bdb.11193.7.195698.TCGCTGT-AACAGCG.fastq.gz	BOCBB	585d52427ded5e78cff90bdb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOPTP	587a88c97ded5e4229d8849b.11237.5.197263.CTTGCTG-ACAGCAA.fastq.gz	BOPTP	587a88c97ded5e4229d8849b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep2/BOCCU	585d513b7ded5e78cff90b5f.11193.1.195642.GTCTCCT-AAGGAGA.fastq.gz	BOCCU	585d513b7ded5e78cff90b5f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCHA	585d51f87ded5e78cff90bb6.11193.5.195680.ATGCCTG-ACAGGCA.fastq.gz	BOCHA	585d51f87ded5e78cff90bb6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCHS	585d521f7ded5e78cff90bc9.11193.6.195689.TTGTCGG-ACCGACA.fastq.gz	BOCHS	585d521f7ded5e78cff90bc9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCNB	585d52307ded5e78cff90bd1.11193.6.195689.TGTACCG-ACGGTAC.fastq.gz	BOCNB	585d52307ded5e78cff90bd1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOPPN	587a7faf7ded5e4229d8840e.11238.7.197210.GCTACGT-AACGTAG.fastq.gz	BOPPN	587a7faf7ded5e4229d8840e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCTY	585eade07ded5e78cff91691.11199.6.195816.TCTCTTC-GGAAGAG.fastq.gz	BOCTY	585eade07ded5e78cff91691
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCOP	585d516c7ded5e78cff90b76.11193.2.195651.TGTCCAG-TCTGGAC.fastq.gz	BOCOP	585d516c7ded5e78cff90b76
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCTB	58828c317ded5e69567ee40c.11250.8.197821.GTAACGA-GTCGTTA.fastq.gz	BOCTB	58828c317ded5e69567ee40c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCNY	585d525f7ded5e78cff90be7.11193.7.195698.GATCGAG-ACTCGAT.fastq.gz	BOCNY	585d525f7ded5e78cff90be7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCSH	585eae077ded5e78cff916a5.11199.7.195825.ACAGCAA-GTTGCTG.fastq.gz	BOCSH	585eae077ded5e78cff916a5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep2/BOCPS	585eacf67ded5e78cff91622.11198.8.195902.CGGTTGT-AACAACC.fastq.gz	BOCPS	585eacf67ded5e78cff91622
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCNW	585d52587ded5e78cff90be4.11193.7.195698.CGTTGAG-ACTCAAC.fastq.gz	BOCNW	585d52587ded5e78cff90be4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCPO	585eac487ded5e78cff915cf.11198.4.195869.GAGCTCA-TTGAGCT.fastq.gz	BOCPO	585eac487ded5e78cff915cf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCTW	585eae147ded5e78cff916aa.11199.7.195825.AGTAGTC-GGACTAC.fastq.gz	BOCTW	585eae147ded5e78cff916aa
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCHZ	585d522d7ded5e78cff90bcf.11193.6.195689.AGAAGCG-ACGCTTC.fastq.gz	BOCHZ	585d522d7ded5e78cff90bcf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCSZ	58828bfd7ded5e69567ee3f7.11250.7.197813.TTCGTAC-GGTACGA.fastq.gz	BOCSZ	58828bfd7ded5e69567ee3f7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCGY	585d51f57ded5e78cff90bb4.11193.5.195680.CTTGCTG-ACAGCAA.fastq.gz	BOCGY	585d51f57ded5e78cff90bb4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCSC	585eaddc7ded5e78cff9168f.11199.6.195816.ACGGAAC-TGTTCCG.fastq.gz	BOCSC	585eaddc7ded5e78cff9168f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOCHO	585d52067ded5e78cff90bbc.11193.5.195680.TGCTTGG-ACCAAGC.fastq.gz	BOCHO	585d52067ded5e78cff90bbc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep2/BOPPG	587a7f8d7ded5e4229d883f8.11238.6.197201.TGTGCGT-AACGCAC.fastq.gz	BOPPG	587a7f8d7ded5e4229d883f8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCBG	585d526f7ded5e78cff90bf1.11193.8.195707.GGACTGT-AACAGTC.fastq.gz	BOCBG	585d526f7ded5e78cff90bf1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPUO	587a88f17ded5e4229d884b4.11237.6.197272.GTCTAGG-ACCTAGA.fastq.gz	BOPUO	587a88f17ded5e4229d884b4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCUY	585ead687ded5e78cff91656.11199.3.195789.ATGCCTG-ACAGGCA.fastq.gz	BOCUY	585ead687ded5e78cff91656
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCAU	585d51b67ded5e78cff90b98.11193.4.195671.CGGTTGT-AACAACC.fastq.gz	BOCAU	585d51b67ded5e78cff90b98
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCBW	585d514a7ded5e78cff90b68.11193.2.195651.GCTACGT-AACGTAG.fastq.gz	BOCBW	585d514a7ded5e78cff90b68
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCWO	585ead887ded5e78cff91667.11199.4.195798.TTGTCGG-ACCGACA.fastq.gz	BOCWO	585ead887ded5e78cff91667
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPWG	587a89137ded5e4229d884ca.11237.7.197281.GCGATAG-ACTATCG.fastq.gz	BOPWG	587a89137ded5e4229d884ca
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPCZ	587a7f517ded5e4229d883d1.11238.4.197183.GTTCAAC-GGTTGAA.fastq.gz	BOPCZ	587a7f517ded5e4229d883d1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPTT	587a88cd7ded5e4229d8849d.11237.5.197263.ATGCCTG-ACAGGCA.fastq.gz	BOPTT	587a88cd7ded5e4229d8849d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPNW	5877fcba7ded5e4229d868a0.11228.2.196754.ATGCACG-TCGTGCA.fastq.gz	BOPNW	5877fcba7ded5e4229d868a0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCYA	585eade97ded5e78cff91695.11199.6.195816.ACACCAG-ACTGGTG.fastq.gz	BOCYA	585eade97ded5e78cff91695
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOPPB	587a89247ded5e4229d884d6.11237.8.197290.CGTAGGT-AACCTAC.fastq.gz	BOPPB	587a89247ded5e4229d884d6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCGN	585d51ce7ded5e78cff90ba2.11193.4.195671.CGACCAT-AATGGTC.fastq.gz	BOCGN	585d51ce7ded5e78cff90ba2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCXG	585eadbb7ded5e78cff9167d.11199.5.195807.TTGGACG-ACGTCCA.fastq.gz	BOCXG	585eadbb7ded5e78cff9167d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr3_Rep2/BOCCX	585d513d7ded5e78cff90b60.11193.1.195642.TACGCCT-AAGGCGT.fastq.gz	BOCCX	585d513d7ded5e78cff90b60
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPCS	587a7f347ded5e4229d883be.11238.3.197174.AGAATGC-GGCATTC.fastq.gz	BOPCS	587a7f347ded5e4229d883be
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPSW	587a7f9a7ded5e4229d88400.11238.6.197201.AGAATGC-GGCATTC.fastq.gz	BOPSW	587a7f9a7ded5e4229d88400
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPAZ	587a7f297ded5e4229d883b8.11238.3.197174.TCATCAC-GGTGATG.fastq.gz	BOPAZ	587a7f297ded5e4229d883b8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPNN	5877fcb57ded5e4229d8689e.11228.2.196754.CTATCGC-TGCGATA.fastq.gz	BOPNN	5877fcb57ded5e4229d8689e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPBW	587a7f307ded5e4229d883bb.11238.3.197174.ATTGAGC-GGCTCAA.fastq.gz	BOPBW	587a7f307ded5e4229d883bb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep2/BOPPU	587a885a7ded5e4229d88455.11237.2.197237.TTCGTAC-GGTACGA.fastq.gz	BOPPU	587a885a7ded5e4229d88455
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCTU	585eacff7ded5e78cff91626.11198.8.195902.TACGCCT-AAGGCGT.fastq.gz	BOCTU	585eacff7ded5e78cff91626
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOPWZ	587a886b7ded5e4229d8845f.11237.2.197237.ATGCACG-TCGTGCA.fastq.gz	BOPWZ	587a886b7ded5e4229d8845f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCSB	585eadda7ded5e78cff9168e.11199.6.195816.GGACTGT-AACAGTC.fastq.gz	BOCSB	585eadda7ded5e78cff9168e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCSY	58828bf57ded5e69567ee3f4.11250.7.197813.CCTCAGT-AACTGAG.fastq.gz	BOCSY	58828bf57ded5e69567ee3f4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOCNU	58828b5b7ded5e69567ee3ab.11250.3.197778.CTCGATA-GTATCGA.fastq.gz	BOCNU	58828b5b7ded5e69567ee3ab
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep1/BOPOT	587a889c7ded5e4229d8847f.11237.4.197254.TGTACAC-GGTGTAC.fastq.gz	BOPOT	587a889c7ded5e4229d8847f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCSU	58828ba27ded5e69567ee3cd.11250.5.197796.CGCTTAA-GTTAAGC.fastq.gz	BOCSU	58828ba27ded5e69567ee3cd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCNP	585d52507ded5e78cff90be1.11193.7.195698.ACCGTAG-ACTACGG.fastq.gz	BOCNP	585d52507ded5e78cff90be1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCPY	585ead817ded5e78cff91664.11199.4.195798.TGTACAC-GGTGTAC.fastq.gz	BOCPY	585ead817ded5e78cff91664
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCOH	585d528b7ded5e78cff90bfd.11193.8.195707.GCATGTC-AGACATG.fastq.gz	BOCOH	585d528b7ded5e78cff90bfd
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr2_Rep1/BOCTP	58828c3b7ded5e69567ee410.11250.8.197821.TGACTGA-GTCAGTC.fastq.gz	BOCTP	58828c3b7ded5e69567ee410
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPWS	587a88697ded5e4229d8845e.11237.2.197237.CTATCGC-TGCGATA.fastq.gz	BOPWS	587a88697ded5e4229d8845e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPTC	587a7fba7ded5e4229d88414.11238.7.197210.GTTCAAC-GGTTGAA.fastq.gz	BOPTC	587a7fba7ded5e4229d88414
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCXS	58828c4b7ded5e69567ee416.11250.8.197821.CTCGATA-GTATCGA.fastq.gz	BOCXS	58828c4b7ded5e69567ee416
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPTZ	587a88807ded5e4229d8846e.11237.3.197246.CACTGAC-TGTCAGT.fastq.gz	BOPTZ	587a88807ded5e4229d8846e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPSP	587a7f977ded5e4229d883fe.11238.6.197201.AGTAGTC-GGACTAC.fastq.gz	BOPSP	587a7f977ded5e4229d883fe
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOPUW	587a88627ded5e4229d8845a.11237.2.197237.AACGGTC-TGACCGT.fastq.gz	BOPUW	587a88627ded5e4229d8845a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCYN	58828bb97ded5e69567ee3d6.11250.5.197796.TGTCCAG-TCTGGAC.fastq.gz	BOCYN	58828bb97ded5e69567ee3d6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Root_Irr2_Rep3/BOCWW	58828bdf7ded5e69567ee3e9.11250.6.197805.AAGAGCC-TGGCTCT.fastq.gz	BOCWW	58828bdf7ded5e69567ee3e9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPPY	587a88417ded5e4229d88445.11237.1.197228.GAACGCT-AAGCGTT.fastq.gz	BOPPY	587a88417ded5e4229d88445
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPHG	5877fd677ded5e4229d868f7.11228.6.196790.GTCTAGG-ACCTAGA.fastq.gz	BOPHG	5877fd677ded5e4229d868f7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPNS	5877fd9f7ded5e4229d86912.11228.7.196799.ACACCAG-ACTGGTG.fastq.gz	BOPNS	5877fd9f7ded5e4229d86912
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPBC	587a7f6b7ded5e4229d883e2.11238.5.197192.GCTACGT-AACGTAG.fastq.gz	BOPBC	587a7f6b7ded5e4229d883e2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPAN	5877fd577ded5e4229d868f0.11228.6.196790.CCAGTGT-AACACTG.fastq.gz	BOPAN	5877fd577ded5e4229d868f0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPGU	5877fd457ded5e4229d868e5.11228.5.196781.TGGCATG-ACATGCC.fastq.gz	BOPGU	5877fd457ded5e4229d868e5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPBZ	5877fa327ded5e4229d86868.11228.1.196745.CCTTCCT-AAGGAAG.fastq.gz	BOPBZ	5877fa327ded5e4229d86868
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPHW	5877fd887ded5e4229d86909.11228.7.196799.TTGGACG-ACGTCCA.fastq.gz	BOPHW	5877fd887ded5e4229d86909
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/RTx430_Leaf_Irr1_Rep3/BOPCW	5877fd197ded5e4229d868d1.11228.4.196772.CGACCAT-AATGGTC.fastq.gz	BOPCW	5877fd197ded5e4229d868d1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCTZ	585ead077ded5e78cff91629.11198.8.195902.GAGGACT-AAGTCCT.fastq.gz	BOCTZ	585ead077ded5e78cff91629
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOPPO	587a7fb37ded5e4229d88410.11238.7.197210.CGCTTAA-GTTAAGC.fastq.gz	BOPPO	587a7fb37ded5e4229d88410
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCTC	585eac5a7ded5e78cff915d6.11198.4.195869.GAACGCT-AAGCGTT.fastq.gz	BOCTC	585eac5a7ded5e78cff915d6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCHT	585d51957ded5e78cff90b88.11193.3.195661.CCAAGCA-TTGCTTG.fastq.gz	BOCHT	585d51957ded5e78cff90b88
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCNC	585d515f7ded5e78cff90b71.11193.2.195651.AACGGTC-TGACCGT.fastq.gz	BOCNC	585d515f7ded5e78cff90b71
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOPST	587a892c7ded5e4229d884da.11237.8.197290.TCTCTTC-GGAAGAG.fastq.gz	BOPST	587a892c7ded5e4229d884da
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCSN	585eae347ded5e78cff916ba.11199.8.195834.CGTAGGT-AACCTAC.fastq.gz	BOCSN	585eae347ded5e78cff916ba
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCHB	58828af97ded5e69567ee37c.11250.1.197760.GAAGTAC-GGTACTT.fastq.gz	BOCHB	58828af97ded5e69567ee37c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep2/BOCNZ	585d51ab7ded5e78cff90b91.11193.3.195661.CTATCGC-TGCGATA.fastq.gz	BOCNZ	585d51ab7ded5e78cff90b91
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPNP	5877fdc87ded5e4229d86922.11228.8.196807.GACATTC-GGAATGT.fastq.gz	BOPNP	5877fdc87ded5e4229d86922
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPHC	5877fcdd7ded5e4229d868b5.11228.3.196763.ATGGTCC-TGGACCA.fastq.gz	BOPHC	5877fcdd7ded5e4229d868b5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPBY	587a7f747ded5e4229d883e7.11238.5.197192.CAATCGA-GTCGATT.fastq.gz	BOPBY	587a7f747ded5e4229d883e7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPAH	5877fd2f7ded5e4229d868dc.11228.5.196781.CTGACAC-TGTGTCA.fastq.gz	BOPAH	5877fd2f7ded5e4229d868dc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPPX	587a7fd97ded5e4229d88427.11238.8.197219.GTAACGA-GTCGTTA.fastq.gz	BOPPX	587a7fd97ded5e4229d88427
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPSX	587a88aa7ded5e4229d88487.11237.4.197254.GCTGGAT-AATCCAG.fastq.gz	BOPSX	587a88aa7ded5e4229d88487
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPCU	5877fccc7ded5e4229d868ad.11228.3.196763.AGCAAGC-TGCTTGC.fastq.gz	BOPCU	5877fccc7ded5e4229d868ad
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPGT	587a7f557ded5e4229d883d3.11238.4.197183.TAGTGAC-GGTCACT.fastq.gz	BOPGT	587a7f557ded5e4229d883d3
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPHU	5877fcac7ded5e4229d8689b.11228.2.196754.TTGAGGC-TGCCTCA.fastq.gz	BOPHU	5877fcac7ded5e4229d8689b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr1_Rep3/BOPBB	587a7f4b7ded5e4229d883ce.11238.4.197183.ACCATCC-TGGATGG.fastq.gz	BOPBB	587a7f4b7ded5e4229d883ce
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCNH	585d51647ded5e78cff90b73.11193.2.195651.TTGAGGC-TGCCTCA.fastq.gz	BOCNH	585d51647ded5e78cff90b73
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOPSZ	587a88af7ded5e4229d8848a.11237.4.197254.CGACCAT-AATGGTC.fastq.gz	BOPSZ	587a88af7ded5e4229d8848a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCTH	585eac5f7ded5e78cff915d8.11198.4.195869.GTGAGCT-AAGCTCA.fastq.gz	BOCTH	585eac5f7ded5e78cff915d8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCHW	585d519b7ded5e78cff90b8b.11193.3.195661.ATGGTCC-TGGACCA.fastq.gz	BOCHW	585d519b7ded5e78cff90b8b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOPSB	587a7fde7ded5e4229d88429.11238.8.197219.CAATCGA-GTCGATT.fastq.gz	BOPSB	587a7fde7ded5e4229d88429
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCPU	585ead507ded5e78cff9164c.11199.3.195789.GCCTTGT-AACAAGG.fastq.gz	BOCPU	585ead507ded5e78cff9164c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCGU	585d51917ded5e78cff90b87.11193.3.195661.GGATACC-TGGTATC.fastq.gz	BOCGU	585d51917ded5e78cff90b87
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCOB	585d52817ded5e78cff90bf8.11193.8.195707.GACATTC-GGAATGT.fastq.gz	BOCOB	585d52817ded5e78cff90bf8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCUB	585ead0c7ded5e78cff9162b.11198.8.195902.GCTGGAT-AATCCAG.fastq.gz	BOCUB	585ead0c7ded5e78cff9162b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCSP	58828c2a7ded5e69567ee409.11250.8.197821.TGTGCGT-AACGCAC.fastq.gz	BOCSP	58828c2a7ded5e69567ee409
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep3/BOCHG	58828b517ded5e69567ee3a6.11250.3.197778.TAGTGAC-GGTCACT.fastq.gz	BOCHG	58828b517ded5e69567ee3a6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPCG	5877fd0a7ded5e4229d868ca.11228.4.196772.TACGCCT-AAGGCGT.fastq.gz	BOPCG	5877fd0a7ded5e4229d868ca
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPNA	5877fd937ded5e4229d8690e.11228.7.196799.GCGATAG-ACTATCG.fastq.gz	BOPNA	5877fd937ded5e4229d8690e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPGC	5877fd377ded5e4229d868e0.11228.5.196781.ACCTCTG-ACAGAGG.fastq.gz	BOPGC	5877fd377ded5e4229d868e0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPBO	5877fa257ded5e4229d86860.11228.1.196745.CCTCAGT-AACTGAG.fastq.gz	BOPBO	5877fa257ded5e4229d86860
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPGZ	5877fd5f7ded5e4229d868f4.11228.6.196790.TTGTCGG-ACCGACA.fastq.gz	BOPGZ	5877fd5f7ded5e4229d868f4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPAT	5877fdb37ded5e4229d8691a.11228.8.196807.GGACTGT-AACAGTC.fastq.gz	BOPAT	5877fdb37ded5e4229d8691a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPHP	5877fd727ded5e4229d868fc.11228.6.196790.TGTACCG-ACGGTAC.fastq.gz	BOPHP	5877fd727ded5e4229d868fc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOCUN	58828c007ded5e69567ee3f8.11250.7.197813.CACGTTG-ACAACGT.fastq.gz	BOCUN	58828c007ded5e69567ee3f8
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPAB	5877fcfc7ded5e4229d868c4.11228.4.196772.CGGTTGT-AACAACC.fastq.gz	BOPAB	5877fcfc7ded5e4229d868c4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr3_Rep1/BOPOH	587a883a7ded5e4229d88441.11237.1.197228.CGGTTGT-AACAACC.fastq.gz	BOPOH	587a883a7ded5e4229d88441
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPWO	587a888f7ded5e4229d88476.11237.3.197246.TCACAGC-TGCTGTG.fastq.gz	BOPWO	587a888f7ded5e4229d88476
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPTX	587a7fc17ded5e4229d88418.11238.7.197210.TAGTGAC-GGTCACT.fastq.gz	BOPTX	587a7fc17ded5e4229d88418
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCXO	585eae217ded5e78cff916af.11199.7.195825.GTGAATC-GGATTCA.fastq.gz	BOCXO	585eae217ded5e78cff916af
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCYG	58828bb57ded5e69567ee3d4.11250.5.197796.ATGCACG-TCGTGCA.fastq.gz	BOCYG	58828bb57ded5e69567ee3d4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPSN	587a7fe47ded5e4229d8842d.11238.8.197219.ACGATGA-GTCATCG.fastq.gz	BOPSN	587a7fe47ded5e4229d8842d
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPTB	587a88b17ded5e4229d8848b.11237.4.197254.CACGTTG-ACAACGT.fastq.gz	BOPTB	587a88b17ded5e4229d8848b
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOPUT	587a7f9d7ded5e4229d88402.11238.6.197201.TATTCGC-GGCGAAT.fastq.gz	BOPUT	587a7f9d7ded5e4229d88402
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr2_Rep3/BOCWT	58828bd97ded5e69567ee3e6.11250.6.197805.ATGGTCC-TGGACCA.fastq.gz	BOCWT	58828bd97ded5e69567ee3e6
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPPA	587a89057ded5e4229d884c2.11237.7.197281.ACAGCAA-GTTGCTG.fastq.gz	BOPPA	587a89057ded5e4229d884c2
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCAT	585d51217ded5e78cff90b55.11193.1.195642.ATAGCGG-ACCGCTA.fastq.gz	BOCAT	585d51217ded5e78cff90b55
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPTS	587a885d7ded5e4229d88457.11237.2.197237.GCCATAA-GTTATGG.fastq.gz	BOPTS	587a885d7ded5e4229d88457
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCXZ	585eae257ded5e78cff916b1.11199.7.195825.GACATTC-GGAATGT.fastq.gz	BOCXZ	585eae257ded5e78cff916b1
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCXC	58828be47ded5e69567ee3eb.11250.6.197805.TTGAGGC-TGCCTCA.fastq.gz	BOCXC	58828be47ded5e69567ee3eb
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPWC	587a7fa17ded5e4229d88404.11238.6.197201.GTGAATC-GGATTCA.fastq.gz	BOPWC	587a7fa17ded5e4229d88404
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCWN	58828bab7ded5e69567ee3d0.11250.5.197796.CATACCA-GTGGTAT.fastq.gz	BOCWN	58828bab7ded5e69567ee3d0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCGH	585d518b7ded5e78cff90b85.11193.3.195661.AGCAAGC-TGCTTGC.fastq.gz	BOCGH	585d518b7ded5e78cff90b85
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCBC	585d52447ded5e78cff90bdc.11193.7.195698.AGCTAAC-GGTTAGC.fastq.gz	BOCBC	585d52447ded5e78cff90bdc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCCW	58828b857ded5e69567ee3bf.11250.4.197787.ACGATGA-GTCATCG.fastq.gz	BOCCW	58828b857ded5e69567ee3bf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPUN	587a88877ded5e4229d88472.11237.3.197246.ATGGTCC-TGGACCA.fastq.gz	BOPUN	587a88877ded5e4229d88472
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCCG	58828b787ded5e69567ee3b9.11250.4.197787.GTAACGA-GTCGTTA.fastq.gz	BOCCG	58828b787ded5e69567ee3b9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCBU	58828b747ded5e69567ee3b7.11250.4.197787.ACCATCC-TGGATGG.fastq.gz	BOCBU	58828b747ded5e69567ee3b7
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOCUX	58828ba87ded5e69567ee3cf.11250.5.197796.GCCATAA-GTTATGG.fastq.gz	BOCUX	58828ba87ded5e69567ee3cf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Root_Irr3_Rep2/BOPXC	587a893d7ded5e4229d884e4.11237.8.197290.TAGCGTC-AGACGCT.fastq.gz	BOPXC	587a893d7ded5e4229d884e4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPGS	5877fd407ded5e4229d868e4.11228.5.196781.CGAACTG-ACAGTTC.fastq.gz	BOPGS	5877fd407ded5e4229d868e4
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPPW	587a883e7ded5e4229d88443.11237.1.197228.ACGGTCT-AAGACCG.fastq.gz	BOPPW	587a883e7ded5e4229d88443
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPBX	5877fa2f7ded5e4229d86866.11228.1.196745.GTGAGCT-AAGCTCA.fastq.gz	BOPBX	5877fa2f7ded5e4229d86866
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPAG	5877fd297ded5e4229d868d9.11228.5.196781.GCCTTGT-AACAAGG.fastq.gz	BOPAG	5877fd297ded5e4229d868d9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPNZ	5877fdd47ded5e4229d86927.11228.8.196807.TAGCGTC-AGACGCT.fastq.gz	BOPNZ	5877fdd47ded5e4229d86927
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPCT	5877fd167ded5e4229d868cf.11228.4.196772.GCTGGAT-AATCCAG.fastq.gz	BOPCT	5877fd167ded5e4229d868cf
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPHT	5877fd757ded5e4229d868fe.11228.6.196790.CCATACG-ACGTATG.fastq.gz	BOPHT	5877fd757ded5e4229d868fe
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPHB	5877fd637ded5e4229d868f5.11228.6.196790.TAACCGG-ACCGGTT.fastq.gz	BOPHB	5877fd637ded5e4229d868f5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPNO	5877fd967ded5e4229d8690f.11228.7.196799.AGTGCAG-ACTGCAC.fastq.gz	BOPNO	5877fd967ded5e4229d8690f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep3/BOPBA	587a7f487ded5e4229d883cc.11238.4.197183.TGTGCGT-AACGCAC.fastq.gz	BOPBA	587a7f487ded5e4229d883cc
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPOX	587a88df7ded5e4229d884a9.11237.6.197272.GGACTGT-AACAGTC.fastq.gz	BOPOX	587a88df7ded5e4229d884a9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPUZ	587a890b7ded5e4229d884c5.11237.7.197281.TTGGACG-ACGTCCA.fastq.gz	BOPUZ	587a890b7ded5e4229d884c5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCWC	585ead707ded5e78cff9165a.11199.3.195789.TGGCATG-ACATGCC.fastq.gz	BOCWC	585ead707ded5e78cff9165a
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCCS	585d51347ded5e78cff90b5c.11193.1.195642.CCTTCCT-AAGGAAG.fastq.gz	BOCCS	585d51347ded5e78cff90b5c
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCWZ	585ead9b7ded5e78cff9166f.11199.4.195798.TGTACCG-ACGGTAC.fastq.gz	BOCWZ	585ead9b7ded5e78cff9166f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPUC	587a88ea7ded5e4229d884b0.11237.6.197272.TTGTCGG-ACCGACA.fastq.gz	BOPUC	587a88ea7ded5e4229d884b0
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCYP	58828bbd7ded5e69567ee3d9.11250.5.197796.AGCTCCT-TAGGAGC.fastq.gz	BOCYP	58828bbd7ded5e69567ee3d9
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCXW	585eadcd7ded5e78cff91686.11199.5.195807.GATCGAG-ACTCGAT.fastq.gz	BOCXW	585eadcd7ded5e78cff91686
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCUT	585ead5d7ded5e78cff91652.11199.3.195789.ACCTCTG-ACAGAGG.fastq.gz	BOCUT	585ead5d7ded5e78cff91652
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCCA	585d51237ded5e78cff90b56.11193.1.195642.CCTCAGT-AACTGAG.fastq.gz	BOCCA	585d51237ded5e78cff90b56
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCBP	58828b3f7ded5e69567ee39e.11250.3.197778.CGTAGGT-AACCTAC.fastq.gz	BOCBP	58828b3f7ded5e69567ee39e
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCAZ	585d52157ded5e78cff90bc5.11193.6.195689.CCAGTGT-AACACTG.fastq.gz	BOCAZ	585d52157ded5e78cff90bc5
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOPTN	587a88c67ded5e4229d88499.11237.5.197263.ACCTCTG-ACAGAGG.fastq.gz	BOPTN	587a88c67ded5e4229d88499
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCGB	585d51c77ded5e78cff90b9f.11193.4.195671.GAGGACT-AAGTCCT.fastq.gz	BOCGB	585d51c77ded5e78cff90b9f
+/global/projectb/scratch/cmodonog/TransposableElements/Sbicolor_libraries/BTx642_Leaf_Irr1_Rep1/BOCGS	58828b4e7ded5e69567ee3a5.11250.3.197778.GTTCAAC-GGTTGAA.fastq.gz	BOCGS	58828b4e7ded5e69567ee3a5
