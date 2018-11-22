@@ -17,7 +17,7 @@ and TEcount from https://github.com/mhammell-laboratory/tetoolkit/ was used to c
 
 What I had to start with were two excel sheets:
   1. samples_reference.xlsx : contained data about each sample. sample name, tissue type, treatment, date, etc
-  2. libraries.xlsx : A lookup table for what each sample is called within jamo (the JGI's mongodb-based data management system)
+  2. libraries.txt : A lookup table for what each sample is called within jamo (the JGI's mongodb-based data management system)
   
 The Sorghum bicolor reference genome
 
@@ -28,24 +28,17 @@ Two genome annotations:
 and a fasta file of Transposable element sequences, whose headers contained more detailed information
 of the TE classifiation than what was present in the gff3 file.
 
-## create_directories.py
-
-There were about 1200 samples. While not necessary, I wanted to organize them by type.
-I created a directory for each combination of genotype, tissue type, treatment, and replicate.
-Within each of these directories were subdirectories for each sample.
-I organized things this way as one of the main ways I wanted to analyze the results was TE expression over time.
-Thus within each type-combination directory, 
-there should only be libraries of the same genotype, tissue type, treatment, and replicate but with different sample dates.
-
 ## fetch_all_libraries.py
 
-This used the information in samples_reference.xlsx to query jamo using its web API, restore the desired fastq, 
-and then create a symbolic link to it in the corresponding sample directory created by create_directories.py
+The JGI Archive and Metadata Organizer (jamo) is the data management system we use to fetch archived data from NERSC tapes.
+It requires a library name (or a combination of metadata queries) to find the correct library, which are luckily located 
+in libraries.txt
 
-There are multiple files archived in jamo for each sample, and I specifically wanted to use the most recent filtered fastq.
-If there were no filtered fastqs, then the most recent fastq would do.
-What I found was that some samples had no fastq sequences in jamo at all, ~400.
-So only ~800 could go through the rest of the pipeline.
+This script used the sample metadata in samples_reference.xlsx and library name from libraries.txt to query jamo using its web API, 
+restore the desired fastq, and then create a symbolic link to it in the the correct subdirectory based on sample metadata.
+
+Searching each library in jamo returns a few different files (some processing is done on each library), but this script makes sure to
+only fetch and create a link to the raw fastq file.
 
 ## gff3_to_gtf.py
 
